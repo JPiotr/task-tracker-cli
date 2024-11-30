@@ -3,9 +3,6 @@ package com.oblitus.routemap.sh.projects.models;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-import com.fasterxml.jackson.annotation.JsonCreator;
-import com.fasterxml.jackson.annotation.JsonCreator.Mode;
-
 public class Task{
     public String description;
     public int id;

@@ -1,0 +1,1733 @@
+{
+    "extConfig": {
+        "enums": [
+            {
+                "name": "ActionType",
+                "values": [
+                    "Building",
+                    "Codding",
+                    "Debugging",
+                    "Documenting",
+                    "Idle",
+                    "Testing"
+                ]
+            },
+            {
+                "name": "SessionState",
+                "values": [
+                    "Ongoing",
+                    "Idle",
+                    "Ended"
+                ]
+            }
+        ]
+    },
+    "data": [
+        {
+            "config": {
+                "showIdle": true
+            },
+            "user": "JPiotr",
+            "dailySessions": [
+                {
+                    "date": "Sat Nov 30 2024",
+                    "sessions": [
+                        {
+                            "sessionInfo": {
+                                "id": "b6ba1902-3b40-4bfc-8f9e-c3e0694514eb",
+                                "duration": 593567,
+                                "idle": 594372,
+                                "state": "Ended",
+                                "durations": [
+                                    {
+                                        "id": "cc46de82-16e8-4395-8871-7ca8cd4ee676",
+                                        "state": "Ongoing",
+                                        "begin": 1732962548971,
+                                        "end": 1732962586800,
+                                        "duration": 37829
+                                    },
+                                    {
+                                        "id": "69cac178-0b8c-4ec9-9e8f-23049b54176f",
+                                        "state": "Idle",
+                                        "begin": 1732962548917,
+                                        "end": 1732962548971,
+                                        "duration": 54
+                                    },
+                                    {
+                                        "id": "5c75f7cd-d65e-4550-bf45-63875c393c96",
+                                        "state": "Ongoing",
+                                        "begin": 1732962249659,
+                                        "end": 1732962548917,
+                                        "duration": 299258
+                                    },
+                                    {
+                                        "id": "66bdbb75-5c81-4d0f-81bb-6270bf1c73d9",
+                                        "state": "Idle",
+                                        "begin": 1732962248908,
+                                        "end": 1732962249659,
+                                        "duration": 751
+                                    },
+                                    {
+                                        "id": "67a58ed1-8140-4e1d-ba5c-beaf1af95350",
+                                        "state": "Ongoing",
+                                        "begin": 1732961954599,
+                                        "end": 1732962248908,
+                                        "duration": 294309
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "958a4100-75a1-406a-bb8f-c463c6572850",
+                                "duration": 1259691,
+                                "idle": 1349857,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "b984a35e-6598-4860-976c-8aa3add25353",
+                                        "state": "Ongoing",
+                                        "begin": 1732966750328,
+                                        "end": 1732966750328,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "4b240acd-81a3-475b-8d51-7560e0c02ee1",
+                                        "state": "Idle",
+                                        "begin": 1732966748985,
+                                        "end": 1732966750328,
+                                        "duration": 1343
+                                    },
+                                    {
+                                        "id": "287eab53-a602-4c9c-8ef2-097aeac7373a",
+                                        "state": "Ongoing",
+                                        "begin": 1732966535874,
+                                        "end": 1732966748985,
+                                        "duration": 213111
+                                    },
+                                    {
+                                        "id": "9e356313-09d6-40c6-8387-d95f75fa1c21",
+                                        "state": "Idle",
+                                        "begin": 1732966448982,
+                                        "end": 1732966535874,
+                                        "duration": 86892
+                                    },
+                                    {
+                                        "id": "4766e1eb-3ed4-48b6-b112-fff80bd77b7f",
+                                        "state": "Ongoing",
+                                        "begin": 1732966149612,
+                                        "end": 1732966448982,
+                                        "duration": 299370
+                                    },
+                                    {
+                                        "id": "18ae552e-55d4-4094-a30f-8745411da318",
+                                        "state": "Idle",
+                                        "begin": 1732966148970,
+                                        "end": 1732966149612,
+                                        "duration": 642
+                                    },
+                                    {
+                                        "id": "325ea0c5-00a3-4201-8adc-46bf173c57b2",
+                                        "state": "Ongoing",
+                                        "begin": 1732965849154,
+                                        "end": 1732966148970,
+                                        "duration": 299816
+                                    },
+                                    {
+                                        "id": "30da811c-b46f-4321-9c6a-256c6fc926b7",
+                                        "state": "Idle",
+                                        "begin": 1732965848966,
+                                        "end": 1732965849154,
+                                        "duration": 188
+                                    },
+                                    {
+                                        "id": "0fda0846-5546-4e7d-90c7-d2a429018308",
+                                        "state": "Ongoing",
+                                        "begin": 1732965550061,
+                                        "end": 1732965848966,
+                                        "duration": 298905
+                                    },
+                                    {
+                                        "id": "32d3b932-5398-4e80-bb86-8e9121289309",
+                                        "state": "Idle",
+                                        "begin": 1732965548960,
+                                        "end": 1732965550061,
+                                        "duration": 1101
+                                    },
+                                    {
+                                        "id": "33321265-5ba2-4712-af63-3a7e27d9ac6e",
+                                        "state": "Ongoing",
+                                        "begin": 1732965403020,
+                                        "end": 1732965548960,
+                                        "duration": 145940
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "5291599f-e1d4-4e16-9ea3-3dc36dec790f",
+                                "duration": 20892,
+                                "idle": 20892,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "2313d121-f2fa-44dd-90c1-ddb7def73f82",
+                                        "state": "Ongoing",
+                                        "begin": 1732966762891,
+                                        "end": 1732966762891,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "6ab21d46-78fd-46dc-b6bc-d89cf0d4a6cd",
+                                        "state": "Idle",
+                                        "begin": 1732966762891,
+                                        "end": 1732966762891,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "83b01be0-b865-403a-a401-5fa1fec4d228",
+                                        "state": "Ongoing",
+                                        "begin": 1732966752877,
+                                        "end": 1732966762891,
+                                        "duration": 10014
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "bb839a50-620a-4200-82dd-79838236b144",
+                                "duration": 20890,
+                                "idle": 20890,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "c6973526-766c-4cb8-86e7-91acafb6f669",
+                                        "state": "Ongoing",
+                                        "begin": 1732966773769,
+                                        "end": 1732966773769,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "9245fb35-6578-4f53-a73f-824f235facb8",
+                                "duration": 880,
+                                "idle": 880,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "4eb302c6-e9fb-4f5e-add1-d5f1966b8437",
+                                        "state": "Ongoing",
+                                        "begin": 1732966794659,
+                                        "end": 1732966794659,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "e0e2c671-0866-4d0e-bb77-5c561ebaab7a",
+                                "duration": 8135,
+                                "idle": 8136,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "1f17e410-4ef5-4a4b-915a-1dbdbf1da029",
+                                        "state": "Ongoing",
+                                        "begin": 1732966799445,
+                                        "end": 1732966799445,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "05c8f019-a3bf-4052-8fe8-b853c01bc47e",
+                                        "state": "Idle",
+                                        "begin": 1732966799444,
+                                        "end": 1732966799445,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "5b18e19d-4547-4f86-b83b-85aa2b5be484",
+                                        "state": "Ongoing",
+                                        "begin": 1732966795539,
+                                        "end": 1732966799444,
+                                        "duration": 3905
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "85efb476-2b60-488b-a563-d62aea0ab668",
+                                "duration": 16336,
+                                "idle": 16336,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "2bc0832f-1235-4dfb-8db6-611a525a3e35",
+                                        "state": "Ongoing",
+                                        "begin": 1732966803675,
+                                        "end": 1732966803675,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "16da9477-0c2f-4bc6-a113-cc449029b767",
+                                "duration": 1468,
+                                "idle": 1468,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "961d4042-1c3d-4689-a039-1a9cc6603617",
+                                        "state": "Ongoing",
+                                        "begin": 1732966820012,
+                                        "end": 1732966820012,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "3a4652ba-6d13-41b4-b7c7-ab4adc7fc42a",
+                                "duration": 19028,
+                                "idle": 19028,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "483dae7e-c54d-4ff7-a31d-d2d2bd608bea",
+                                        "state": "Ongoing",
+                                        "begin": 1732966826581,
+                                        "end": 1732966826581,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "9778bf33-adfb-4b11-b2f2-3ab4876d4e37",
+                                        "state": "Idle",
+                                        "begin": 1732966826581,
+                                        "end": 1732966826581,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "2f7f25e0-3f42-4091-a690-af66513903f5",
+                                        "state": "Ongoing",
+                                        "begin": 1732966821480,
+                                        "end": 1732966826581,
+                                        "duration": 5101
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "3b889b8c-2dbf-4e44-832e-bfb7c219d246",
+                                "duration": 114988,
+                                "idle": 114988,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "7efe08e8-9e3f-4eae-b0b6-2437881a9866",
+                                        "state": "Ongoing",
+                                        "begin": 1732966840508,
+                                        "end": 1732966840508,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "ba966c4e-55ed-4ef6-bc2b-0cd4b1fab324",
+                                "duration": 1517,
+                                "idle": 1517,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "31e0694c-58fa-404f-9b6b-16da8bc465c6",
+                                        "state": "Ongoing",
+                                        "begin": 1732966955497,
+                                        "end": 1732966955497,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "ac906217-88ce-49ce-96f2-0cd0720a5177",
+                                "duration": 350490,
+                                "idle": 452382,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "558d471c-9f64-4be0-a30f-c8598dd6a610",
+                                        "state": "Ongoing",
+                                        "begin": 1732967360915,
+                                        "end": 1732967360915,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "0efb8458-f749-4ff6-b058-fd2d18da71d9",
+                                        "state": "Idle",
+                                        "begin": 1732967349003,
+                                        "end": 1732967360915,
+                                        "duration": 11912
+                                    },
+                                    {
+                                        "id": "a77fec42-e37a-4994-84ff-befceec27782",
+                                        "state": "Ongoing",
+                                        "begin": 1732967138976,
+                                        "end": 1732967349003,
+                                        "duration": 210027
+                                    },
+                                    {
+                                        "id": "e3a7e510-8f6e-4805-829c-85ca679b3709",
+                                        "state": "Idle",
+                                        "begin": 1732967048996,
+                                        "end": 1732967138976,
+                                        "duration": 89980
+                                    },
+                                    {
+                                        "id": "ee477c3b-4142-403a-ac43-022e2357906b",
+                                        "state": "Ongoing",
+                                        "begin": 1732966962333,
+                                        "end": 1732967048996,
+                                        "duration": 86663
+                                    },
+                                    {
+                                        "id": "b17bb537-4495-4041-aa59-104d441aec39",
+                                        "state": "Idle",
+                                        "begin": 1732966962333,
+                                        "end": 1732966962333,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "f87a964a-5673-4476-895c-0ac2e0c9f161",
+                                        "state": "Ongoing",
+                                        "begin": 1732966957014,
+                                        "end": 1732966962333,
+                                        "duration": 5319
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "fb98c6f9-6242-456d-b954-40e1c808206b",
+                                "duration": 6922,
+                                "idle": 6922,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "7c5bc13e-87d0-44df-b830-eb0122fcd128",
+                                        "state": "Ongoing",
+                                        "begin": 1732967409441,
+                                        "end": 1732967409441,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "423c35ef-bfc6-4d4f-91c7-b4163ed3b9f9",
+                                        "state": "Idle",
+                                        "begin": 1732967409441,
+                                        "end": 1732967409441,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "9880cd1a-9db5-40dc-a483-fdfad5600685",
+                                        "state": "Ongoing",
+                                        "begin": 1732967409396,
+                                        "end": 1732967409441,
+                                        "duration": 45
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "c4b9d8f8-62b1-4e5b-927b-986220557a90",
+                                "duration": 14866,
+                                "idle": 14866,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "d20bfa72-e818-438d-9fd3-11cd5c6cc238",
+                                        "state": "Ongoing",
+                                        "begin": 1732967416318,
+                                        "end": 1732967416318,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "0457516c-7abe-47d7-ae2f-23cd950a2255",
+                                "duration": 4260,
+                                "idle": 4261,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "fe9a8665-8e3d-4330-a05c-63850e9e5ec8",
+                                        "state": "Ongoing",
+                                        "begin": 1732967431266,
+                                        "end": 1732967431266,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "20ce8644-2bd7-4e58-bd1e-6823397f8928",
+                                        "state": "Idle",
+                                        "begin": 1732967431265,
+                                        "end": 1732967431266,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "5f472bd8-0960-450e-b51c-a016fe2a030a",
+                                        "state": "Ongoing",
+                                        "begin": 1732967431184,
+                                        "end": 1732967431265,
+                                        "duration": 81
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "44e80157-2954-4149-92ad-366df86052da",
+                                "duration": 3984,
+                                "idle": 3984,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "d0220f8b-5988-4980-8bd4-833b5e9f6669",
+                                        "state": "Ongoing",
+                                        "begin": 1732967435445,
+                                        "end": 1732967435445,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "d82531f8-aaec-40f7-bf08-ef9fd84c8794",
+                                "duration": 3840,
+                                "idle": 3840,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "5c81164a-f077-4761-94e8-ae5b98b2c798",
+                                        "state": "Ongoing",
+                                        "begin": 1732967439471,
+                                        "end": 1732967439471,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "53f09cf0-88e4-4a2e-b686-36eb710b5ace",
+                                        "state": "Idle",
+                                        "begin": 1732967439471,
+                                        "end": 1732967439471,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "38d965a4-5856-4194-901d-0a1595857bfe",
+                                        "state": "Ongoing",
+                                        "begin": 1732967439429,
+                                        "end": 1732967439471,
+                                        "duration": 42
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "1c30e783-1243-4aec-b229-34d4f8920be8",
+                                "duration": 1622769,
+                                "idle": 1705698,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "1960d314-7a59-47cc-8b0d-b9e679f375c7",
+                                        "state": "Ongoing",
+                                        "begin": 1732968882465,
+                                        "end": 1732968882465,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "df51955b-f0b1-48c4-9d55-432aba9a1815",
+                                        "state": "Idle",
+                                        "begin": 1732968849026,
+                                        "end": 1732968882465,
+                                        "duration": 33439
+                                    },
+                                    {
+                                        "id": "187148de-3cbc-4224-9360-6de716380305",
+                                        "state": "Ongoing",
+                                        "begin": 1732968549442,
+                                        "end": 1732968849026,
+                                        "duration": 299584
+                                    },
+                                    {
+                                        "id": "8e7d0862-7eb3-4146-b68a-e3ef36cb30a4",
+                                        "state": "Idle",
+                                        "begin": 1732968549025,
+                                        "end": 1732968549442,
+                                        "duration": 417
+                                    },
+                                    {
+                                        "id": "221fbf07-fe37-49fc-b28b-20bbd8dc7a45",
+                                        "state": "Ongoing",
+                                        "begin": 1732968279079,
+                                        "end": 1732968549025,
+                                        "duration": 269946
+                                    },
+                                    {
+                                        "id": "3b83b722-e541-4d26-860e-b8e5861807bf",
+                                        "state": "Idle",
+                                        "begin": 1732968249022,
+                                        "end": 1732968279079,
+                                        "duration": 30057
+                                    },
+                                    {
+                                        "id": "bc64bbfb-a10b-4ed4-966c-0f2173860b25",
+                                        "state": "Ongoing",
+                                        "begin": 1732967953230,
+                                        "end": 1732968249022,
+                                        "duration": 295792
+                                    },
+                                    {
+                                        "id": "e0587fb7-ae1a-489c-b02e-f6d5ec9c3c6d",
+                                        "state": "Idle",
+                                        "begin": 1732967949015,
+                                        "end": 1732967953230,
+                                        "duration": 4215
+                                    },
+                                    {
+                                        "id": "f6422e37-443c-42fa-b6e6-4692a35e6147",
+                                        "state": "Ongoing",
+                                        "begin": 1732967663806,
+                                        "end": 1732967949015,
+                                        "duration": 285209
+                                    },
+                                    {
+                                        "id": "4a53015c-9c16-4e43-aa18-1ccf82c1a80a",
+                                        "state": "Idle",
+                                        "begin": 1732967649005,
+                                        "end": 1732967663806,
+                                        "duration": 14801
+                                    },
+                                    {
+                                        "id": "3db74b57-a25e-4370-b2f3-a386edfe3c09",
+                                        "state": "Ongoing",
+                                        "begin": 1732967443269,
+                                        "end": 1732967649005,
+                                        "duration": 205736
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "1d665cce-b3ab-4176-9aa1-179de00fd8a4",
+                                "duration": 802440,
+                                "idle": 815171,
+                                "state": "Ended",
+                                "durations": [
+                                    {
+                                        "id": "17a21907-1470-4111-a0d8-84c4c0c47306",
+                                        "state": "Idle",
+                                        "begin": 1732970573823,
+                                        "end": 1732970573823,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "7bb68c47-359f-4b50-acda-5372814aa63a",
+                                        "state": "Ongoing",
+                                        "begin": 1732970277204,
+                                        "end": 1732970573823,
+                                        "duration": 296619
+                                    },
+                                    {
+                                        "id": "c8a09f09-97c3-4ca3-b15f-7d5725aad21c",
+                                        "state": "Idle",
+                                        "begin": 1732970273821,
+                                        "end": 1732970277204,
+                                        "duration": 3383
+                                    },
+                                    {
+                                        "id": "45807452-cc36-4c20-90b6-dd08143dcc8e",
+                                        "state": "Ongoing",
+                                        "begin": 1732969983162,
+                                        "end": 1732970273821,
+                                        "duration": 290659
+                                    },
+                                    {
+                                        "id": "2fb18b40-f460-404a-a74c-2e975231992d",
+                                        "state": "Idle",
+                                        "begin": 1732969973816,
+                                        "end": 1732969983162,
+                                        "duration": 9346
+                                    },
+                                    {
+                                        "id": "12174654-4dc7-40c2-b92a-9ee758c41984",
+                                        "state": "Ongoing",
+                                        "begin": 1732969758654,
+                                        "end": 1732969973816,
+                                        "duration": 215162
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Idle"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "ccc66db7-71af-48a8-810c-d76623aba537",
+                                "duration": 1607612,
+                                "idle": 3587256,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "92271ded-39ed-4fa2-b75c-87175ee34420",
+                                        "state": "Ongoing",
+                                        "begin": 1732974702348,
+                                        "end": 1732974702348,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "9b6c76bf-7504-4c59-b893-bb951c56f571",
+                                        "state": "Idle",
+                                        "begin": 1732974548253,
+                                        "end": 1732974702348,
+                                        "duration": 154095
+                                    },
+                                    {
+                                        "id": "a9ff6e2d-1808-4c44-b295-df2a82354816",
+                                        "state": "Ongoing",
+                                        "begin": 1732974262293,
+                                        "end": 1732974548253,
+                                        "duration": 285960
+                                    },
+                                    {
+                                        "id": "ef1befc9-c22d-4500-b2c2-4fc8b201e956",
+                                        "state": "Idle",
+                                        "begin": 1732972448202,
+                                        "end": 1732974262293,
+                                        "duration": 1814091
+                                    },
+                                    {
+                                        "id": "a19ac8d6-8081-4770-8ed2-4be30bf7a62f",
+                                        "state": "Ongoing",
+                                        "begin": 1732972148207,
+                                        "end": 1732972448202,
+                                        "duration": 299995
+                                    },
+                                    {
+                                        "id": "3f3907c1-2c37-4944-a8db-3243add5e495",
+                                        "state": "Idle",
+                                        "begin": 1732972148189,
+                                        "end": 1732972148207,
+                                        "duration": 18
+                                    },
+                                    {
+                                        "id": "0af46861-f332-464d-83cc-1404bef332fc",
+                                        "state": "Ongoing",
+                                        "begin": 1732971858803,
+                                        "end": 1732972148189,
+                                        "duration": 289386
+                                    },
+                                    {
+                                        "id": "dd9cad4e-7ae9-4e23-a184-721efd3912c3",
+                                        "state": "Idle",
+                                        "begin": 1732971848189,
+                                        "end": 1732971858803,
+                                        "duration": 10614
+                                    },
+                                    {
+                                        "id": "426e70e1-411c-47af-8cfd-43bfacd97422",
+                                        "state": "Ongoing",
+                                        "begin": 1732971549009,
+                                        "end": 1732971848189,
+                                        "duration": 299180
+                                    },
+                                    {
+                                        "id": "00c9d79c-41e5-41bc-be7c-c45a401634a8",
+                                        "state": "Idle",
+                                        "begin": 1732971548183,
+                                        "end": 1732971549009,
+                                        "duration": 826
+                                    },
+                                    {
+                                        "id": "a5debec5-fdac-4f34-972c-fa64e6fda930",
+                                        "state": "Ongoing",
+                                        "begin": 1732971260957,
+                                        "end": 1732971548183,
+                                        "duration": 287226
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".xml",
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "3332b0d9-7bf5-4d4f-97d6-8fb7a5644d10",
+                                "duration": 6044,
+                                "idle": 6044,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "db5cc40c-1dfc-4f92-bc0b-a64bc9e31c03",
+                                        "state": "Ongoing",
+                                        "begin": 1732975742180,
+                                        "end": 1732975742180,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "1117f2ff-7ed5-4c8a-88e6-418818ea46e3",
+                                "duration": 7592,
+                                "idle": 7592,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "3cbaee31-567e-4dd5-bdb0-b660391d331a",
+                                        "state": "Ongoing",
+                                        "begin": 1732976640637,
+                                        "end": 1732976640637,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".json"
+                                ]
+                            },
+                            "actionType": "Documenting"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "f5d81dcb-e0f2-4f69-abb6-13c68a309925",
+                                "duration": 734,
+                                "idle": 734,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "dce2bc6d-78af-460d-8359-f7c23708fc6a",
+                                        "state": "Ongoing",
+                                        "begin": 1732977547497,
+                                        "end": 1732977547497,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "34f534f4-527e-4e23-b4b1-72fce0aa96a4",
+                                "duration": 147826,
+                                "idle": 147826,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "8aeef24c-7fcd-4db9-8f72-e4aa409aa9f5",
+                                        "state": "Ongoing",
+                                        "begin": 1732978300408,
+                                        "end": 1732978300408,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "34f534f4-527e-4e23-b4b1-72fce0aa96a4",
+                                "duration": 1022180,
+                                "idle": 1047828,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "e3e62811-7185-4453-b4f2-feab80b407ea",
+                                        "state": "Ongoing",
+                                        "begin": 1732979064454,
+                                        "end": 1732979064454,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "e528eebe-0e15-42cf-af89-5c1958a3fb1d",
+                                        "state": "Idle",
+                                        "begin": 1732979048326,
+                                        "end": 1732979064454,
+                                        "duration": 16128
+                                    },
+                                    {
+                                        "id": "212afae1-47d0-4db1-8ce3-636b50efdbd6",
+                                        "state": "Ongoing",
+                                        "begin": 1732978748734,
+                                        "end": 1732979048326,
+                                        "duration": 299592
+                                    },
+                                    {
+                                        "id": "3bf2b2fe-03e9-496f-b7ff-e2b51134cef9",
+                                        "state": "Idle",
+                                        "begin": 1732978748315,
+                                        "end": 1732978748734,
+                                        "duration": 419
+                                    },
+                                    {
+                                        "id": "30f31dd7-6afc-4836-ba5c-6b6b153f5e3c",
+                                        "state": "Ongoing",
+                                        "begin": 1732978457412,
+                                        "end": 1732978748315,
+                                        "duration": 290903
+                                    },
+                                    {
+                                        "id": "8790aa0e-fca3-407e-85a1-e009a886f16b",
+                                        "state": "Idle",
+                                        "begin": 1732978448311,
+                                        "end": 1732978457412,
+                                        "duration": 9101
+                                    },
+                                    {
+                                        "id": "8aeef24c-7fcd-4db9-8f72-e4aa409aa9f5",
+                                        "state": "Ongoing",
+                                        "begin": 1732978300408,
+                                        "end": 1732978448311,
+                                        "duration": 147903
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "34f534f4-527e-4e23-b4b1-72fce0aa96a4",
+                                "duration": 1890863,
+                                "idle": 1947834,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "5f32d4b3-b1dd-47ed-9b9f-c287d73b773b",
+                                        "state": "Ongoing",
+                                        "begin": 1732979969273,
+                                        "end": 1732979969273,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "468254a4-1959-4c46-a70c-ea13a163f896",
+                                        "state": "Idle",
+                                        "begin": 1732979948346,
+                                        "end": 1732979969273,
+                                        "duration": 20927
+                                    },
+                                    {
+                                        "id": "b82f1f1f-bcdb-403f-8d16-6a22a14dd3fd",
+                                        "state": "Ongoing",
+                                        "begin": 1732979649034,
+                                        "end": 1732979948346,
+                                        "duration": 299312
+                                    },
+                                    {
+                                        "id": "fb930652-25d3-42b9-8477-4c26d82308de",
+                                        "state": "Idle",
+                                        "begin": 1732979648343,
+                                        "end": 1732979649034,
+                                        "duration": 691
+                                    },
+                                    {
+                                        "id": "cd5e081d-ef8e-455a-9615-e7cb46ed6719",
+                                        "state": "Ongoing",
+                                        "begin": 1732979358033,
+                                        "end": 1732979648343,
+                                        "duration": 290310
+                                    },
+                                    {
+                                        "id": "b5d58c76-1a93-4578-922e-2946ebbdb131",
+                                        "state": "Idle",
+                                        "begin": 1732979348328,
+                                        "end": 1732979358033,
+                                        "duration": 9705
+                                    },
+                                    {
+                                        "id": "e3e62811-7185-4453-b4f2-feab80b407ea",
+                                        "state": "Ongoing",
+                                        "begin": 1732979064454,
+                                        "end": 1732979348328,
+                                        "duration": 283874
+                                    },
+                                    {
+                                        "id": "e528eebe-0e15-42cf-af89-5c1958a3fb1d",
+                                        "state": "Idle",
+                                        "begin": 1732979048326,
+                                        "end": 1732979064454,
+                                        "duration": 16128
+                                    },
+                                    {
+                                        "id": "212afae1-47d0-4db1-8ce3-636b50efdbd6",
+                                        "state": "Ongoing",
+                                        "begin": 1732978748734,
+                                        "end": 1732979048326,
+                                        "duration": 299592
+                                    },
+                                    {
+                                        "id": "3bf2b2fe-03e9-496f-b7ff-e2b51134cef9",
+                                        "state": "Idle",
+                                        "begin": 1732978748315,
+                                        "end": 1732978748734,
+                                        "duration": 419
+                                    },
+                                    {
+                                        "id": "30f31dd7-6afc-4836-ba5c-6b6b153f5e3c",
+                                        "state": "Ongoing",
+                                        "begin": 1732978457412,
+                                        "end": 1732978748315,
+                                        "duration": 290903
+                                    },
+                                    {
+                                        "id": "8790aa0e-fca3-407e-85a1-e009a886f16b",
+                                        "state": "Idle",
+                                        "begin": 1732978448311,
+                                        "end": 1732978457412,
+                                        "duration": 9101
+                                    },
+                                    {
+                                        "id": "8aeef24c-7fcd-4db9-8f72-e4aa409aa9f5",
+                                        "state": "Ongoing",
+                                        "begin": 1732978300408,
+                                        "end": 1732978448311,
+                                        "duration": 147903
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "dd6f4424-76e2-4ffb-ace1-19eeeb5df308",
+                                "duration": 49739,
+                                "idle": 349633,
+                                "state": "Idle",
+                                "durations": [
+                                    {
+                                        "id": "8e4b1f34-5775-4936-b6b9-1acbef2a13e2",
+                                        "state": "Idle",
+                                        "begin": 1732980848353,
+                                        "end": 1732980848353,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "16bb7203-5053-43cc-bf69-abf83e8b074e",
+                                        "state": "Ongoing",
+                                        "begin": 1732980798980,
+                                        "end": 1732980848353,
+                                        "duration": 49373
+                                    },
+                                    {
+                                        "id": "c91625f9-abcb-4c3f-bb69-4f113f7f18c0",
+                                        "state": "Idle",
+                                        "begin": 1732980798978,
+                                        "end": 1732980798980,
+                                        "duration": 2
+                                    },
+                                    {
+                                        "id": "0d05ecc1-2719-4907-b543-730ea2906b0f",
+                                        "state": "Ongoing",
+                                        "begin": 1732980798612,
+                                        "end": 1732980798978,
+                                        "duration": 366
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Idle"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "dd6f4424-76e2-4ffb-ace1-19eeeb5df308",
+                                "duration": 754593,
+                                "idle": 1249634,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "39f0181c-7ef9-436b-92ee-8d0f56a37b4f",
+                                        "state": "Ongoing",
+                                        "begin": 1732981765137,
+                                        "end": 1732981765137,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "df1811d5-7b12-48d3-9f69-4bf1a06e39d3",
+                                        "state": "Idle",
+                                        "begin": 1732981748374,
+                                        "end": 1732981765137,
+                                        "duration": 16763
+                                    },
+                                    {
+                                        "id": "d29c8caf-16c6-43e9-aa10-b5157e81d562",
+                                        "state": "Ongoing",
+                                        "begin": 1732981490439,
+                                        "end": 1732981748374,
+                                        "duration": 257935
+                                    },
+                                    {
+                                        "id": "563d76a3-48a5-4a93-a1c9-353452a65a38",
+                                        "state": "Idle",
+                                        "begin": 1732981448365,
+                                        "end": 1732981490439,
+                                        "duration": 42074
+                                    },
+                                    {
+                                        "id": "c7a9fb85-5e84-483e-91d8-4534d76dd511",
+                                        "state": "Ongoing",
+                                        "begin": 1732981284555,
+                                        "end": 1732981448365,
+                                        "duration": 163810
+                                    },
+                                    {
+                                        "id": "8e4b1f34-5775-4936-b6b9-1acbef2a13e2",
+                                        "state": "Idle",
+                                        "begin": 1732980848353,
+                                        "end": 1732981284555,
+                                        "duration": 436202
+                                    },
+                                    {
+                                        "id": "16bb7203-5053-43cc-bf69-abf83e8b074e",
+                                        "state": "Ongoing",
+                                        "begin": 1732980798980,
+                                        "end": 1732980848353,
+                                        "duration": 49373
+                                    },
+                                    {
+                                        "id": "c91625f9-abcb-4c3f-bb69-4f113f7f18c0",
+                                        "state": "Idle",
+                                        "begin": 1732980798978,
+                                        "end": 1732980798980,
+                                        "duration": 2
+                                    },
+                                    {
+                                        "id": "0d05ecc1-2719-4907-b543-730ea2906b0f",
+                                        "state": "Ongoing",
+                                        "begin": 1732980798612,
+                                        "end": 1732980798978,
+                                        "duration": 366
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java",
+                                    ".xml"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "584ac6f3-11c8-4013-8989-500819439fcc",
+                                "duration": 582797,
+                                "idle": 662250,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "91da357d-9d91-43da-baad-aff7ed624ada",
+                                        "state": "Ongoing",
+                                        "begin": 1732982672465,
+                                        "end": 1732982672465,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "dc55d025-2c18-454a-8a0f-18ad7a8aa3c3",
+                                        "state": "Idle",
+                                        "begin": 1732982648387,
+                                        "end": 1732982672465,
+                                        "duration": 24078
+                                    },
+                                    {
+                                        "id": "b0eb342d-0b79-41a2-a644-eff9103118b3",
+                                        "state": "Ongoing",
+                                        "begin": 1732982403756,
+                                        "end": 1732982648387,
+                                        "duration": 244631
+                                    },
+                                    {
+                                        "id": "5d20c6bb-a672-468e-8c62-9fb7d3dc1c18",
+                                        "state": "Idle",
+                                        "begin": 1732982348383,
+                                        "end": 1732982403756,
+                                        "duration": 55373
+                                    },
+                                    {
+                                        "id": "fd88b4fe-a259-4d0c-9666-0318c857da49",
+                                        "state": "Ongoing",
+                                        "begin": 1732982286357,
+                                        "end": 1732982348383,
+                                        "duration": 62026
+                                    },
+                                    {
+                                        "id": "98aa169b-42d5-4d65-be49-a1103b746b58",
+                                        "state": "Idle",
+                                        "begin": 1732982286355,
+                                        "end": 1732982286357,
+                                        "duration": 2
+                                    },
+                                    {
+                                        "id": "4f1b83f2-3ccd-4d6a-a4ae-13cbf0100c8f",
+                                        "state": "Ongoing",
+                                        "begin": 1732982286007,
+                                        "end": 1732982286355,
+                                        "duration": 348
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java",
+                                    ".xml"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "584ac6f3-11c8-4013-8989-500819439fcc",
+                                "duration": 1091979,
+                                "idle": 1562261,
+                                "state": "Idle",
+                                "durations": [
+                                    {
+                                        "id": "8a48ae1f-f692-46bd-8c11-a087c6edbabe",
+                                        "state": "Idle",
+                                        "begin": 1732983548415,
+                                        "end": 1732983548415,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "e13c9eeb-f37a-49a8-b0ec-8b09b0a2cae5",
+                                        "state": "Ongoing",
+                                        "begin": 1732983302936,
+                                        "end": 1732983548415,
+                                        "duration": 245479
+                                    },
+                                    {
+                                        "id": "3ce1f8bf-be52-4c2d-bb38-7906f2a0f3d7",
+                                        "state": "Idle",
+                                        "begin": 1732983248405,
+                                        "end": 1732983302936,
+                                        "duration": 54531
+                                    },
+                                    {
+                                        "id": "6f03be3d-af83-42c7-9371-a17369ac47cf",
+                                        "state": "Ongoing",
+                                        "begin": 1732982984840,
+                                        "end": 1732983248405,
+                                        "duration": 263565
+                                    },
+                                    {
+                                        "id": "3d2bfb88-875a-4de0-aef0-1e11a1e86fbc",
+                                        "state": "Idle",
+                                        "begin": 1732982948395,
+                                        "end": 1732982984840,
+                                        "duration": 36445
+                                    },
+                                    {
+                                        "id": "91da357d-9d91-43da-baad-aff7ed624ada",
+                                        "state": "Ongoing",
+                                        "begin": 1732982672465,
+                                        "end": 1732982948395,
+                                        "duration": 275930
+                                    },
+                                    {
+                                        "id": "dc55d025-2c18-454a-8a0f-18ad7a8aa3c3",
+                                        "state": "Idle",
+                                        "begin": 1732982648387,
+                                        "end": 1732982672465,
+                                        "duration": 24078
+                                    },
+                                    {
+                                        "id": "b0eb342d-0b79-41a2-a644-eff9103118b3",
+                                        "state": "Ongoing",
+                                        "begin": 1732982403756,
+                                        "end": 1732982648387,
+                                        "duration": 244631
+                                    },
+                                    {
+                                        "id": "5d20c6bb-a672-468e-8c62-9fb7d3dc1c18",
+                                        "state": "Idle",
+                                        "begin": 1732982348383,
+                                        "end": 1732982403756,
+                                        "duration": 55373
+                                    },
+                                    {
+                                        "id": "fd88b4fe-a259-4d0c-9666-0318c857da49",
+                                        "state": "Ongoing",
+                                        "begin": 1732982286357,
+                                        "end": 1732982348383,
+                                        "duration": 62026
+                                    },
+                                    {
+                                        "id": "98aa169b-42d5-4d65-be49-a1103b746b58",
+                                        "state": "Idle",
+                                        "begin": 1732982286355,
+                                        "end": 1732982286357,
+                                        "duration": 2
+                                    },
+                                    {
+                                        "id": "4f1b83f2-3ccd-4d6a-a4ae-13cbf0100c8f",
+                                        "state": "Ongoing",
+                                        "begin": 1732982286007,
+                                        "end": 1732982286355,
+                                        "duration": 348
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java",
+                                    ".xml"
+                                ]
+                            },
+                            "actionType": "Idle"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "584ac6f3-11c8-4013-8989-500819439fcc",
+                                "duration": 1701837,
+                                "idle": 2462273,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "ec46e2a0-6c2a-4985-91bb-0922d7e23d2c",
+                                        "state": "Ongoing",
+                                        "begin": 1732984492360,
+                                        "end": 1732984492360,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "c4a363cf-2848-4cbf-88f5-167a0b806ab7",
+                                        "state": "Idle",
+                                        "begin": 1732984448436,
+                                        "end": 1732984492360,
+                                        "duration": 43924
+                                    },
+                                    {
+                                        "id": "1c37c0e5-da4b-4b0b-aa5c-47be48b6cd33",
+                                        "state": "Ongoing",
+                                        "begin": 1732984148739,
+                                        "end": 1732984448436,
+                                        "duration": 299697
+                                    },
+                                    {
+                                        "id": "43d71ca2-290e-4de8-b1fb-d85160e56dbe",
+                                        "state": "Idle",
+                                        "begin": 1732984148431,
+                                        "end": 1732984148739,
+                                        "duration": 308
+                                    },
+                                    {
+                                        "id": "a2d1b7ea-e77a-4d1c-b87a-a75552bcea8c",
+                                        "state": "Ongoing",
+                                        "begin": 1732984094190,
+                                        "end": 1732984148431,
+                                        "duration": 54241
+                                    },
+                                    {
+                                        "id": "8a48ae1f-f692-46bd-8c11-a087c6edbabe",
+                                        "state": "Idle",
+                                        "begin": 1732983548415,
+                                        "end": 1732984094190,
+                                        "duration": 545775
+                                    },
+                                    {
+                                        "id": "e13c9eeb-f37a-49a8-b0ec-8b09b0a2cae5",
+                                        "state": "Ongoing",
+                                        "begin": 1732983302936,
+                                        "end": 1732983548415,
+                                        "duration": 245479
+                                    },
+                                    {
+                                        "id": "3ce1f8bf-be52-4c2d-bb38-7906f2a0f3d7",
+                                        "state": "Idle",
+                                        "begin": 1732983248405,
+                                        "end": 1732983302936,
+                                        "duration": 54531
+                                    },
+                                    {
+                                        "id": "6f03be3d-af83-42c7-9371-a17369ac47cf",
+                                        "state": "Ongoing",
+                                        "begin": 1732982984840,
+                                        "end": 1732983248405,
+                                        "duration": 263565
+                                    },
+                                    {
+                                        "id": "3d2bfb88-875a-4de0-aef0-1e11a1e86fbc",
+                                        "state": "Idle",
+                                        "begin": 1732982948395,
+                                        "end": 1732982984840,
+                                        "duration": 36445
+                                    },
+                                    {
+                                        "id": "91da357d-9d91-43da-baad-aff7ed624ada",
+                                        "state": "Ongoing",
+                                        "begin": 1732982672465,
+                                        "end": 1732982948395,
+                                        "duration": 275930
+                                    },
+                                    {
+                                        "id": "dc55d025-2c18-454a-8a0f-18ad7a8aa3c3",
+                                        "state": "Idle",
+                                        "begin": 1732982648387,
+                                        "end": 1732982672465,
+                                        "duration": 24078
+                                    },
+                                    {
+                                        "id": "b0eb342d-0b79-41a2-a644-eff9103118b3",
+                                        "state": "Ongoing",
+                                        "begin": 1732982403756,
+                                        "end": 1732982648387,
+                                        "duration": 244631
+                                    },
+                                    {
+                                        "id": "5d20c6bb-a672-468e-8c62-9fb7d3dc1c18",
+                                        "state": "Idle",
+                                        "begin": 1732982348383,
+                                        "end": 1732982403756,
+                                        "duration": 55373
+                                    },
+                                    {
+                                        "id": "fd88b4fe-a259-4d0c-9666-0318c857da49",
+                                        "state": "Ongoing",
+                                        "begin": 1732982286357,
+                                        "end": 1732982348383,
+                                        "duration": 62026
+                                    },
+                                    {
+                                        "id": "98aa169b-42d5-4d65-be49-a1103b746b58",
+                                        "state": "Idle",
+                                        "begin": 1732982286355,
+                                        "end": 1732982286357,
+                                        "duration": 2
+                                    },
+                                    {
+                                        "id": "4f1b83f2-3ccd-4d6a-a4ae-13cbf0100c8f",
+                                        "state": "Ongoing",
+                                        "begin": 1732982286007,
+                                        "end": 1732982286355,
+                                        "duration": 348
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java",
+                                    ".xml"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "584ac6f3-11c8-4013-8989-500819439fcc",
+                                "duration": 2462178,
+                                "idle": 3362282,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "18e87af5-ca2a-40b9-a8f4-bc398cfe9ade",
+                                        "state": "Ongoing",
+                                        "begin": 1732985348866,
+                                        "end": 1732985348866,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "3df30d56-c28a-4632-819e-923228e37ed7",
+                                        "state": "Idle",
+                                        "begin": 1732985348468,
+                                        "end": 1732985348866,
+                                        "duration": 398
+                                    },
+                                    {
+                                        "id": "b4b868b2-1e97-4831-a252-fd8159fe24c3",
+                                        "state": "Ongoing",
+                                        "begin": 1732985105260,
+                                        "end": 1732985348468,
+                                        "duration": 243208
+                                    },
+                                    {
+                                        "id": "96ab9ee2-6667-4cbf-9880-d7c0b224d7bc",
+                                        "state": "Idle",
+                                        "begin": 1732985048456,
+                                        "end": 1732985105260,
+                                        "duration": 56804
+                                    },
+                                    {
+                                        "id": "61f8a27c-4390-4ea5-91ab-15e0717e5c3b",
+                                        "state": "Ongoing",
+                                        "begin": 1732984830915,
+                                        "end": 1732985048456,
+                                        "duration": 217541
+                                    },
+                                    {
+                                        "id": "16be9743-6e21-46e9-9c9d-b31a8cc61cd4",
+                                        "state": "Idle",
+                                        "begin": 1732984748449,
+                                        "end": 1732984830915,
+                                        "duration": 82466
+                                    },
+                                    {
+                                        "id": "ec46e2a0-6c2a-4985-91bb-0922d7e23d2c",
+                                        "state": "Ongoing",
+                                        "begin": 1732984492360,
+                                        "end": 1732984748449,
+                                        "duration": 256089
+                                    },
+                                    {
+                                        "id": "c4a363cf-2848-4cbf-88f5-167a0b806ab7",
+                                        "state": "Idle",
+                                        "begin": 1732984448436,
+                                        "end": 1732984492360,
+                                        "duration": 43924
+                                    },
+                                    {
+                                        "id": "1c37c0e5-da4b-4b0b-aa5c-47be48b6cd33",
+                                        "state": "Ongoing",
+                                        "begin": 1732984148739,
+                                        "end": 1732984448436,
+                                        "duration": 299697
+                                    },
+                                    {
+                                        "id": "43d71ca2-290e-4de8-b1fb-d85160e56dbe",
+                                        "state": "Idle",
+                                        "begin": 1732984148431,
+                                        "end": 1732984148739,
+                                        "duration": 308
+                                    },
+                                    {
+                                        "id": "a2d1b7ea-e77a-4d1c-b87a-a75552bcea8c",
+                                        "state": "Ongoing",
+                                        "begin": 1732984094190,
+                                        "end": 1732984148431,
+                                        "duration": 54241
+                                    },
+                                    {
+                                        "id": "8a48ae1f-f692-46bd-8c11-a087c6edbabe",
+                                        "state": "Idle",
+                                        "begin": 1732983548415,
+                                        "end": 1732984094190,
+                                        "duration": 545775
+                                    },
+                                    {
+                                        "id": "e13c9eeb-f37a-49a8-b0ec-8b09b0a2cae5",
+                                        "state": "Ongoing",
+                                        "begin": 1732983302936,
+                                        "end": 1732983548415,
+                                        "duration": 245479
+                                    },
+                                    {
+                                        "id": "3ce1f8bf-be52-4c2d-bb38-7906f2a0f3d7",
+                                        "state": "Idle",
+                                        "begin": 1732983248405,
+                                        "end": 1732983302936,
+                                        "duration": 54531
+                                    },
+                                    {
+                                        "id": "6f03be3d-af83-42c7-9371-a17369ac47cf",
+                                        "state": "Ongoing",
+                                        "begin": 1732982984840,
+                                        "end": 1732983248405,
+                                        "duration": 263565
+                                    },
+                                    {
+                                        "id": "3d2bfb88-875a-4de0-aef0-1e11a1e86fbc",
+                                        "state": "Idle",
+                                        "begin": 1732982948395,
+                                        "end": 1732982984840,
+                                        "duration": 36445
+                                    },
+                                    {
+                                        "id": "91da357d-9d91-43da-baad-aff7ed624ada",
+                                        "state": "Ongoing",
+                                        "begin": 1732982672465,
+                                        "end": 1732982948395,
+                                        "duration": 275930
+                                    },
+                                    {
+                                        "id": "dc55d025-2c18-454a-8a0f-18ad7a8aa3c3",
+                                        "state": "Idle",
+                                        "begin": 1732982648387,
+                                        "end": 1732982672465,
+                                        "duration": 24078
+                                    },
+                                    {
+                                        "id": "b0eb342d-0b79-41a2-a644-eff9103118b3",
+                                        "state": "Ongoing",
+                                        "begin": 1732982403756,
+                                        "end": 1732982648387,
+                                        "duration": 244631
+                                    },
+                                    {
+                                        "id": "5d20c6bb-a672-468e-8c62-9fb7d3dc1c18",
+                                        "state": "Idle",
+                                        "begin": 1732982348383,
+                                        "end": 1732982403756,
+                                        "duration": 55373
+                                    },
+                                    {
+                                        "id": "fd88b4fe-a259-4d0c-9666-0318c857da49",
+                                        "state": "Ongoing",
+                                        "begin": 1732982286357,
+                                        "end": 1732982348383,
+                                        "duration": 62026
+                                    },
+                                    {
+                                        "id": "98aa169b-42d5-4d65-be49-a1103b746b58",
+                                        "state": "Idle",
+                                        "begin": 1732982286355,
+                                        "end": 1732982286357,
+                                        "duration": 2
+                                    },
+                                    {
+                                        "id": "4f1b83f2-3ccd-4d6a-a4ae-13cbf0100c8f",
+                                        "state": "Ongoing",
+                                        "begin": 1732982286007,
+                                        "end": 1732982286355,
+                                        "duration": 348
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java",
+                                    ".xml"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "1b07c1c5-6b8c-4be0-b98e-af5da16a3a6c",
+                                "duration": 244510,
+                                "idle": 244512,
+                                "state": "Idle",
+                                "durations": [
+                                    {
+                                        "id": "81ef96fc-1577-4f8b-81fb-01a35199fdd9",
+                                        "state": "Idle",
+                                        "begin": 1732987281617,
+                                        "end": 1732987281617,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "8a3947c8-30ad-4860-8e81-c3005dfebb42",
+                                        "state": "Ongoing",
+                                        "begin": 1732987037107,
+                                        "end": 1732987281617,
+                                        "duration": 244510
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Idle"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

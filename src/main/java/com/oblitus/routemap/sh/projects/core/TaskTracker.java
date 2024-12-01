@@ -1,7 +1,6 @@
 package com.oblitus.routemap.sh.projects.core;
 
 import java.io.IOException;
-import java.util.List;
 
 import com.oblitus.routemap.sh.projects.models.Task;
 import com.oblitus.routemap.sh.projects.models.TaskStatus;
@@ -115,5 +114,8 @@ public class TaskTracker {
         }
         manager.saveData();
         return;
+    }
+    public TaskMenager getMenager(){
+        return this.manager;
     }
 }

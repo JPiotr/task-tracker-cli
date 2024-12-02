@@ -10,6 +10,8 @@ public class Task{
     public TaskStatus status;
     public LocalDateTime createdAt;
     public LocalDateTime updatedAt;
+    private static boolean largerOccured = false;
+    public static boolean isInProgress = false;
 
     
     // @JsonCreator(mode = Mode.DELEGATING)
@@ -34,8 +36,8 @@ public class Task{
                 builder.append(" ");
             }
             builder.append(" | status");
-            if(status == TaskStatus.IN_PROGRESS){
-                builder.append("      ");
+            if(status == TaskStatus.IN_PROGRESS || isInProgress){
+                builder.append("           ");
             }
             builder.append(" | description");
             if(description.length() > 11){
@@ -56,16 +58,25 @@ public class Task{
         if(status == TaskStatus.IN_PROGRESS){
             builder.append("      ");
         }
+        else if(isInProgress){
+            builder.append("             ");
+        }
         else{
             builder.append("  ");
         }
         builder.append(" | ");
-        builder.append(description);
-        if(description.length() < 11){
+        if(description.length() < 11 && !largerOccured){
+            builder.append(description);
             for(int i = 0; i < 11-description.length(); i++){
                 builder.append(" ");
             }
+        }else if(largerOccured || (description.length() < 26 && description.length() > 11)){
+            String temp = "                          ";
+            var sb1 = temp.substring(description.length()-1);
+            builder.append(description + sb1);
+            largerOccured = true;
         }
+        
         builder.append(" | ");
         builder.append(createdAt.format(DateTimeFormatter.ofPattern("uuuu-MM-dd HH:MM")));
         builder.append(" | ");

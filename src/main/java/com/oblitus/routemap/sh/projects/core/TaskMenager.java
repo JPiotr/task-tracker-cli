@@ -94,10 +94,24 @@ public class TaskMenager {
                 temp.add(task);
             }
         }
+        chceckIfTherIsAnyInProgressTask();
         return temp;
     }
     public List<Task> getTasks(){
+        chceckIfTherIsAnyInProgressTask();
         return this.Tasks;
+    }
+    public void chceckIfTherIsAnyInProgressTask(){
+        Iterator<Task> iterator = this.Tasks.iterator();
+        while(iterator.hasNext()){
+            Task task = iterator.next();
+            if(task.status == TaskStatus.IN_PROGRESS){
+                Task.isInProgress = true;
+                return;
+            }
+        }
+        Task.isInProgress = false;
+        return;
     }
     
 }

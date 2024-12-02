@@ -6014,6 +6014,3708 @@
                             "actionType": "Testing"
                         }
                     ]
+                },
+                {
+                    "date": "Mon Dec 02 2024",
+                    "sessions": [
+                        {
+                            "sessionInfo": {
+                                "id": "f1b83eda-3644-4b88-bb4b-22b1279970b3",
+                                "duration": 15171,
+                                "idle": 15171,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "39afbc50-69f3-40a3-adc7-bdd6d07a9fd1",
+                                        "state": "Ongoing",
+                                        "begin": 1733158879861,
+                                        "end": 1733158879861,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "991fb1a4-c6d0-41a4-ab3b-a8c0f3a403ce",
+                                "duration": 31378,
+                                "idle": 31382,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "dc397d74-11ac-4f4e-bbb3-e1c62dc8353b",
+                                        "state": "Ongoing",
+                                        "begin": 1733158920106,
+                                        "end": 1733158920106,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "531062f3-36cc-48e1-b07d-2b5a59386a5f",
+                                        "state": "Idle",
+                                        "begin": 1733158920105,
+                                        "end": 1733158920106,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "cd9df115-cf76-430c-a921-b9196f5a7147",
+                                        "state": "Ongoing",
+                                        "begin": 1733158917701,
+                                        "end": 1733158920105,
+                                        "duration": 2404
+                                    },
+                                    {
+                                        "id": "ca47ebd5-6a47-4186-a423-1459ab00348e",
+                                        "state": "Idle",
+                                        "begin": 1733158917700,
+                                        "end": 1733158917701,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "6efcf131-10c3-4bd9-a325-2ad71fd4b699",
+                                        "state": "Ongoing",
+                                        "begin": 1733158900697,
+                                        "end": 1733158917700,
+                                        "duration": 17003
+                                    },
+                                    {
+                                        "id": "d913c263-d6e5-413d-a420-4138210c0bf7",
+                                        "state": "Idle",
+                                        "begin": 1733158900696,
+                                        "end": 1733158900697,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "7de67fbb-73d8-45a9-932d-60b2cd4ff8fe",
+                                        "state": "Ongoing",
+                                        "begin": 1733158896691,
+                                        "end": 1733158900696,
+                                        "duration": 4005
+                                    },
+                                    {
+                                        "id": "e68254c3-ef6f-4fe5-8c89-ae3d20ac69c2",
+                                        "state": "Idle",
+                                        "begin": 1733158896690,
+                                        "end": 1733158896691,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "c3e94d34-21a9-4556-b874-cd665bb6858a",
+                                        "state": "Ongoing",
+                                        "begin": 1733158895032,
+                                        "end": 1733158896690,
+                                        "duration": 1658
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "1b775611-d27f-4d4c-9748-4b59856d9e65",
+                                "duration": 26841,
+                                "idle": 26841,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "e1447013-f898-4640-a5ba-7762c8df3dc2",
+                                        "state": "Ongoing",
+                                        "begin": 1733158926414,
+                                        "end": 1733158926414,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "70c01572-6390-480a-9704-6f9c68933cf9",
+                                "duration": 1225,
+                                "idle": 1225,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "de0f103b-c98b-4870-be17-594180464518",
+                                        "state": "Ongoing",
+                                        "begin": 1733158953255,
+                                        "end": 1733158953255,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "d10601eb-a578-4be0-b4e2-170db666cbcb",
+                                "duration": 33685,
+                                "idle": 33695,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "8ad6a891-a897-43eb-ac60-d8854b28bcb7",
+                                        "state": "Ongoing",
+                                        "begin": 1733158975673,
+                                        "end": 1733158975673,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "bde70de4-83eb-4ac4-b87e-208477e6884e",
+                                        "state": "Idle",
+                                        "begin": 1733158975672,
+                                        "end": 1733158975673,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "b266e967-a459-4c53-8b8a-88612b733601",
+                                        "state": "Ongoing",
+                                        "begin": 1733158973478,
+                                        "end": 1733158975672,
+                                        "duration": 2194
+                                    },
+                                    {
+                                        "id": "c6517e19-dfed-4235-a2e6-35e96e27287e",
+                                        "state": "Idle",
+                                        "begin": 1733158973477,
+                                        "end": 1733158973478,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "78db9f3c-70ea-4147-85be-be7ded819189",
+                                        "state": "Ongoing",
+                                        "begin": 1733158971639,
+                                        "end": 1733158973477,
+                                        "duration": 1838
+                                    },
+                                    {
+                                        "id": "8f1db361-93e8-44b3-a178-a88c983cca80",
+                                        "state": "Idle",
+                                        "begin": 1733158971638,
+                                        "end": 1733158971639,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "10794b8f-44de-4f6b-9b9f-50e480ffadfc",
+                                        "state": "Ongoing",
+                                        "begin": 1733158969347,
+                                        "end": 1733158971638,
+                                        "duration": 2291
+                                    },
+                                    {
+                                        "id": "41e5e465-4ee2-490c-8b97-32727143fe80",
+                                        "state": "Idle",
+                                        "begin": 1733158969346,
+                                        "end": 1733158969347,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "601816f2-3f12-467f-81ee-497ea0d9c3c6",
+                                        "state": "Ongoing",
+                                        "begin": 1733158967370,
+                                        "end": 1733158969346,
+                                        "duration": 1976
+                                    },
+                                    {
+                                        "id": "6d55826f-6f31-436b-84cf-ca2a9bb596ff",
+                                        "state": "Idle",
+                                        "begin": 1733158967368,
+                                        "end": 1733158967370,
+                                        "duration": 2
+                                    },
+                                    {
+                                        "id": "d5951bb7-8a47-48ea-907f-caca37bc78a7",
+                                        "state": "Ongoing",
+                                        "begin": 1733158965144,
+                                        "end": 1733158967368,
+                                        "duration": 2224
+                                    },
+                                    {
+                                        "id": "44609c70-a83f-40ac-a5fc-7ee45f7aed72",
+                                        "state": "Idle",
+                                        "begin": 1733158965143,
+                                        "end": 1733158965144,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "cde145a9-8e5a-4eb5-9645-c2ff2bdd6f08",
+                                        "state": "Ongoing",
+                                        "begin": 1733158963011,
+                                        "end": 1733158965143,
+                                        "duration": 2132
+                                    },
+                                    {
+                                        "id": "0d3695d7-1ef1-422e-bf85-6d73ea8a21b0",
+                                        "state": "Idle",
+                                        "begin": 1733158963010,
+                                        "end": 1733158963011,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "a9837b0c-9594-46d9-bf86-957b5a67346a",
+                                        "state": "Ongoing",
+                                        "begin": 1733158960237,
+                                        "end": 1733158963010,
+                                        "duration": 2773
+                                    },
+                                    {
+                                        "id": "d6b16c32-2559-4e0f-a739-d4abbeadbb86",
+                                        "state": "Idle",
+                                        "begin": 1733158960236,
+                                        "end": 1733158960237,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "2d5dee7c-ce6a-4bb1-b3d0-8ec8787e68cc",
+                                        "state": "Ongoing",
+                                        "begin": 1733158957354,
+                                        "end": 1733158960236,
+                                        "duration": 2882
+                                    },
+                                    {
+                                        "id": "86ddf34f-a7b9-4d5e-9d52-d0beeedf3504",
+                                        "state": "Idle",
+                                        "begin": 1733158957354,
+                                        "end": 1733158957354,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "d8a76e89-dc74-436d-922c-0fcd662ae802",
+                                        "state": "Ongoing",
+                                        "begin": 1733158954778,
+                                        "end": 1733158957354,
+                                        "duration": 2576
+                                    },
+                                    {
+                                        "id": "1a0adb7c-6e44-417c-84ba-dd0a563ffaaa",
+                                        "state": "Idle",
+                                        "begin": 1733158954777,
+                                        "end": 1733158954778,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "d11dacfb-bb0e-4da9-b812-37d90584dbd7",
+                                        "state": "Ongoing",
+                                        "begin": 1733158954480,
+                                        "end": 1733158954777,
+                                        "duration": 297
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "104cb894-e548-4067-a20a-f1fe4d66de59",
+                                "duration": 36878,
+                                "idle": 36878,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "341c7ce1-2009-42de-9142-97d2fd344712",
+                                        "state": "Ongoing",
+                                        "begin": 1733158988175,
+                                        "end": 1733158988175,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "23246efc-5a10-495c-8e45-e08a2646c2ae",
+                                "duration": 1617,
+                                "idle": 1617,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "71219003-cd1e-470a-83ce-bcc0a27606d0",
+                                        "state": "Ongoing",
+                                        "begin": 1733159025053,
+                                        "end": 1733159025053,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "39072602-eb14-46e0-9aba-644680bded9e",
+                                "duration": 20706,
+                                "idle": 20706,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "12796b9e-4b1d-4679-8c11-0bf5430679b7",
+                                        "state": "Ongoing",
+                                        "begin": 1733159026670,
+                                        "end": 1733159026670,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "79c018e4-dcfa-4747-b6db-40b468d40f75",
+                                "duration": 412769,
+                                "idle": 454781,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "e0706369-d413-4666-b7ec-f82f06f4475b",
+                                        "state": "Ongoing",
+                                        "begin": 1733159467802,
+                                        "end": 1733159467802,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "bddeeb06-757b-435e-9dfa-e3aad3e54d49",
+                                        "state": "Idle",
+                                        "begin": 1733159466850,
+                                        "end": 1733159467802,
+                                        "duration": 952
+                                    },
+                                    {
+                                        "id": "ac58a963-7410-426a-ba46-bf2000ed2aca",
+                                        "state": "Ongoing",
+                                        "begin": 1733159207901,
+                                        "end": 1733159466850,
+                                        "duration": 258949
+                                    },
+                                    {
+                                        "id": "0824703c-1e16-4161-948a-b4fc0e83694b",
+                                        "state": "Idle",
+                                        "begin": 1733159166841,
+                                        "end": 1733159207901,
+                                        "duration": 41060
+                                    },
+                                    {
+                                        "id": "987bf2d1-dd9e-4f50-ba58-8cc3dae24d3d",
+                                        "state": "Ongoing",
+                                        "begin": 1733159047376,
+                                        "end": 1733159166841,
+                                        "duration": 119465
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "8afd7233-e18d-4d5e-8a55-ef92e3bc7e54",
+                                "duration": 14173,
+                                "idle": 14174,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "fb8008a2-c815-480c-9048-19d3568a0a86",
+                                        "state": "Ongoing",
+                                        "begin": 1733159503308,
+                                        "end": 1733159503308,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "0b441c0c-17f5-48c3-bef0-75b5aadcdf0d",
+                                        "state": "Idle",
+                                        "begin": 1733159503307,
+                                        "end": 1733159503308,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "69ac4b85-c62c-4b91-9801-915f50eec4a1",
+                                        "state": "Ongoing",
+                                        "begin": 1733159502157,
+                                        "end": 1733159503307,
+                                        "duration": 1150
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "ccc6e50e-2c84-491c-8f06-d4b8654955cb",
+                                "duration": 67556,
+                                "idle": 67556,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "d2cefed3-fe4a-42a6-a089-fb11f0bdc357",
+                                        "state": "Ongoing",
+                                        "begin": 1733159516331,
+                                        "end": 1733159516331,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "be6d4645-4809-4ae2-8992-0b03c5acc8a6",
+                                "duration": 9905,
+                                "idle": 9905,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "7d35706f-506c-46d3-9c37-3c94de4d45f1",
+                                        "state": "Ongoing",
+                                        "begin": 1733159583887,
+                                        "end": 1733159583887,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "a56d006e-1bff-41c9-bf40-851b3b5a4886",
+                                "duration": 9050,
+                                "idle": 9050,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "6749c1f3-8ad3-4929-9234-7ffe317ae124",
+                                        "state": "Ongoing",
+                                        "begin": 1733159593792,
+                                        "end": 1733159593792,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "400d0515-7f84-49af-8eee-bdfc815fff71",
+                                "duration": 1109,
+                                "idle": 1109,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "23df9759-e7d3-4e16-acfa-9b748f05fc91",
+                                        "state": "Ongoing",
+                                        "begin": 1733159602842,
+                                        "end": 1733159602842,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "e4f7f51f-c370-4f08-9863-95ff0626f585",
+                                "duration": 18563,
+                                "idle": 18564,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "fb7bfd70-228a-4855-81c5-e2979edbac7c",
+                                        "state": "Ongoing",
+                                        "begin": 1733159604104,
+                                        "end": 1733159604104,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "200c0fb8-5d21-4fc2-8a37-4a5eb4660a7e",
+                                        "state": "Idle",
+                                        "begin": 1733159604103,
+                                        "end": 1733159604104,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "93d7530e-14e2-4d38-b136-d5f042b7ac56",
+                                        "state": "Ongoing",
+                                        "begin": 1733159603951,
+                                        "end": 1733159604103,
+                                        "duration": 152
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "629480df-f711-4a80-bd87-7593b9562a25",
+                                "duration": 22744,
+                                "idle": 22744,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "1ea5dd6f-fc0d-414e-9345-f5e65689c90a",
+                                        "state": "Ongoing",
+                                        "begin": 1733159622515,
+                                        "end": 1733159622515,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "4ccb8d95-6d22-4f43-ace2-074e6f6e17f4",
+                                "duration": 1091,
+                                "idle": 1091,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "027eec9d-244c-4088-86a5-440f265d8706",
+                                        "state": "Ongoing",
+                                        "begin": 1733159645259,
+                                        "end": 1733159645259,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "1e881aaa-eac3-4a4b-a67e-c0b5239d7322",
+                                "duration": 16781,
+                                "idle": 16781,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "2bb32d09-a40d-469d-873d-56012097ad0a",
+                                        "state": "Ongoing",
+                                        "begin": 1733159646480,
+                                        "end": 1733159646480,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "90f901ce-8b02-4401-8f71-5e2aa202b116",
+                                        "state": "Idle",
+                                        "begin": 1733159646480,
+                                        "end": 1733159646480,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "cd894209-17e6-48c2-bd86-c31cf1b8ff2a",
+                                        "state": "Ongoing",
+                                        "begin": 1733159646350,
+                                        "end": 1733159646480,
+                                        "duration": 130
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "9317d171-aea4-442e-88a0-96b932d47582",
+                                "duration": 12090,
+                                "idle": 12090,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "dffaa17a-99c5-4d32-8cd9-197419c99e3a",
+                                        "state": "Ongoing",
+                                        "begin": 1733159663131,
+                                        "end": 1733159663131,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    "\\3ced358f-48b5-4c3f-888d-9b3a56a59b4f\\message\\0\\0\\ActualOutput"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "135558bb-a8db-4f0e-b1e8-c5f5ec8dd1ae",
+                                "duration": 5761,
+                                "idle": 5761,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "85f4c3b1-d3c0-4095-b050-f438de7d759f",
+                                        "state": "Ongoing",
+                                        "begin": 1733159675221,
+                                        "end": 1733159675221,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "b45d6055-8fd3-459d-9e00-9ad58f1f09a0",
+                                "duration": 4326,
+                                "idle": 4326,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "3927f044-f10c-425f-b409-32db30ab3809",
+                                        "state": "Ongoing",
+                                        "begin": 1733159680982,
+                                        "end": 1733159680982,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "9f9816e8-f559-4f8e-b1a6-36193ebbef85",
+                                "duration": 7217,
+                                "idle": 7217,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "5224135f-6dcd-4f4d-95f8-d7d3ed9f7991",
+                                        "state": "Ongoing",
+                                        "begin": 1733159685308,
+                                        "end": 1733159685308,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "59944d30-6d6b-4793-abf1-2c3836fe9929",
+                                "duration": 24835,
+                                "idle": 24835,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "9a3f34df-ba67-46d5-ac4e-bfaedbab6f8f",
+                                        "state": "Ongoing",
+                                        "begin": 1733159693650,
+                                        "end": 1733159693650,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "974dc93c-08d6-49f3-ae30-5e8dffc6bec1",
+                                        "state": "Idle",
+                                        "begin": 1733159693650,
+                                        "end": 1733159693650,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "bd0d706b-014d-434f-8e59-768dfe401c3d",
+                                        "state": "Ongoing",
+                                        "begin": 1733159692525,
+                                        "end": 1733159693650,
+                                        "duration": 1125
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "ce444046-e390-405d-858a-222de3cd9d9d",
+                                "duration": 16526,
+                                "idle": 16526,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "4e4da8d4-7a7f-421e-bc64-5e01eeb694ba",
+                                        "state": "Ongoing",
+                                        "begin": 1733159717360,
+                                        "end": 1733159717360,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "7566c44e-acdb-4c73-8696-b095029a664d",
+                                "duration": 8039,
+                                "idle": 8039,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "74d1f573-c560-4a92-b390-05f27d3b2e06",
+                                        "state": "Ongoing",
+                                        "begin": 1733159733886,
+                                        "end": 1733159733886,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "547df5e1-3ca3-4f3f-ac6b-7089147ad1bb",
+                                "duration": 10059,
+                                "idle": 10059,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "a427fe75-5483-41ec-892c-a36ac7481bc9",
+                                        "state": "Ongoing",
+                                        "begin": 1733159741925,
+                                        "end": 1733159741925,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "b548bfa1-0053-4280-b2f1-01b911fc092b",
+                                "duration": 23299,
+                                "idle": 24630,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "ddbe5269-4b49-48b9-bfbf-00acdc5a1835",
+                                        "state": "Ongoing",
+                                        "begin": 1733159768181,
+                                        "end": 1733159768181,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "e8a76b59-13a2-4d9c-bfc2-6565ceacc0ac",
+                                        "state": "Idle",
+                                        "begin": 1733159766851,
+                                        "end": 1733159768181,
+                                        "duration": 1330
+                                    },
+                                    {
+                                        "id": "3018a4f9-6798-41ed-9fee-4d5ec3fc5b2a",
+                                        "state": "Ongoing",
+                                        "begin": 1733159753096,
+                                        "end": 1733159766851,
+                                        "duration": 13755
+                                    },
+                                    {
+                                        "id": "fe014573-170a-4b23-a241-e6245214272d",
+                                        "state": "Idle",
+                                        "begin": 1733159753095,
+                                        "end": 1733159753096,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "256162c6-3938-4b99-b175-921a1c0571e6",
+                                        "state": "Ongoing",
+                                        "begin": 1733159751984,
+                                        "end": 1733159753095,
+                                        "duration": 1111
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "4f72ce34-8938-42f3-ab2f-0d6933a52714",
+                                "duration": 12854,
+                                "idle": 12854,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "f1dd71d9-852e-40e1-8875-ac80110e48e5",
+                                        "state": "Ongoing",
+                                        "begin": 1733159777806,
+                                        "end": 1733159777806,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "a3c42409-6262-40b2-9f4d-34555b6c9cc7",
+                                        "state": "Idle",
+                                        "begin": 1733159777806,
+                                        "end": 1733159777806,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "eade97f1-1fba-4490-97d1-89f57cc94da8",
+                                        "state": "Ongoing",
+                                        "begin": 1733159776614,
+                                        "end": 1733159777806,
+                                        "duration": 1192
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "01ee87ae-9db7-4c5a-a32f-ae3ce289efc3",
+                                "duration": 15518,
+                                "idle": 15518,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "6a2823c1-e20a-4431-b8d6-6c69cec54cec",
+                                        "state": "Ongoing",
+                                        "begin": 1733159789468,
+                                        "end": 1733159789468,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "c10a555c-1660-4a9d-9fc9-e7208988463b",
+                                "duration": 9697,
+                                "idle": 9697,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "578fcb6d-6736-4dad-9931-8c21f697273c",
+                                        "state": "Ongoing",
+                                        "begin": 1733159804986,
+                                        "end": 1733159804986,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "2f69d02a-691e-48bb-915e-5914c0be4ca4",
+                                "duration": 12793,
+                                "idle": 12793,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "edd4d77f-048c-44dc-a5d2-03d7588cec18",
+                                        "state": "Ongoing",
+                                        "begin": 1733159814683,
+                                        "end": 1733159814683,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "79349c73-2f08-4597-a4c7-7141ced802fd",
+                                "duration": 263059,
+                                "idle": 1144536,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "21e32786-a2bf-4716-a5bf-acc540b85b5e",
+                                        "state": "Ongoing",
+                                        "begin": 1733160967663,
+                                        "end": 1733160967663,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "b6bde7ae-a99c-4f93-ae00-2d3bf38efc44",
+                                        "state": "Idle",
+                                        "begin": 1733160966866,
+                                        "end": 1733160967663,
+                                        "duration": 797
+                                    },
+                                    {
+                                        "id": "0b1d5bca-29b6-4883-b64f-f58f0d1d27b1",
+                                        "state": "Ongoing",
+                                        "begin": 1733160947531,
+                                        "end": 1733160966866,
+                                        "duration": 19335
+                                    },
+                                    {
+                                        "id": "f1b8eb77-a374-4928-9395-2b9bdf2ca422",
+                                        "state": "Idle",
+                                        "begin": 1733160066851,
+                                        "end": 1733160947531,
+                                        "duration": 880680
+                                    },
+                                    {
+                                        "id": "303b2d5f-04ec-4b9d-8035-80a45896b2fb",
+                                        "state": "Ongoing",
+                                        "begin": 1733159828613,
+                                        "end": 1733160066851,
+                                        "duration": 238238
+                                    },
+                                    {
+                                        "id": "d2882704-2631-426f-acbe-d5f42e8e4714",
+                                        "state": "Idle",
+                                        "begin": 1733159828613,
+                                        "end": 1733159828613,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "ac1121a4-e158-430d-87a8-8ff57f3f1e79",
+                                        "state": "Ongoing",
+                                        "begin": 1733159827476,
+                                        "end": 1733159828613,
+                                        "duration": 1137
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "a761059f-a763-414e-b9a0-a82cc954cdf2",
+                                "duration": 2822,
+                                "idle": 2822,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "bf613e15-72fd-4971-aabe-a38cce81183a",
+                                        "state": "Ongoing",
+                                        "begin": 1733160972012,
+                                        "end": 1733160972012,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "55990455-d90c-437f-bbfd-dd528ab79616",
+                                "duration": 3538,
+                                "idle": 3538,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "5906041f-29e9-4d58-8138-e030a6659d30",
+                                        "state": "Ongoing",
+                                        "begin": 1733160974834,
+                                        "end": 1733160974834,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "fee806f4-53a1-4b60-b4ca-68fc0150d2eb",
+                                "duration": 7175,
+                                "idle": 7175,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "7d62c139-847d-46d9-9830-237a8d06d805",
+                                        "state": "Ongoing",
+                                        "begin": 1733160978372,
+                                        "end": 1733160978372,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "1447c991-4839-41c6-b103-fe3f37636735",
+                                "duration": 819,
+                                "idle": 819,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "9e82d87d-a3f2-459e-9c2f-657735b60cd3",
+                                        "state": "Ongoing",
+                                        "begin": 1733160985547,
+                                        "end": 1733160985547,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "1993b93d-6096-443e-ae62-c47fc249cb31",
+                                "duration": 363,
+                                "idle": 364,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "9d7340b6-5107-4133-9490-b00fd1cff618",
+                                        "state": "Ongoing",
+                                        "begin": 1733160986699,
+                                        "end": 1733160986699,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "77c0357c-bae8-4333-896c-fb059ce76709",
+                                        "state": "Idle",
+                                        "begin": 1733160986698,
+                                        "end": 1733160986699,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "ada4c255-d3dd-49ea-b62e-2ba819fa4a4b",
+                                        "state": "Ongoing",
+                                        "begin": 1733160986366,
+                                        "end": 1733160986698,
+                                        "duration": 332
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "a6e7a158-30ed-4033-979d-14e1b677ac4e",
+                                "duration": 8506,
+                                "idle": 8506,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "4253ca17-d5be-421f-8476-14783edb5f29",
+                                        "state": "Ongoing",
+                                        "begin": 1733160986730,
+                                        "end": 1733160986730,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "cc7497f7-32a5-4b39-8e44-fb75de936879",
+                                "duration": 2127,
+                                "idle": 2127,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "80b2ec7d-3364-4bd6-a8fc-6e6e62bdd42c",
+                                        "state": "Ongoing",
+                                        "begin": 1733160995236,
+                                        "end": 1733160995236,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "bc0defa1-c502-4271-8ebf-34946c75d44b",
+                                "duration": 5048,
+                                "idle": 5048,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "19dc3d84-9dd5-402f-93c8-528ecd753124",
+                                        "state": "Ongoing",
+                                        "begin": 1733160997363,
+                                        "end": 1733160997363,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "f3b8db33-9d20-4b82-ae77-d4dfbff81459",
+                                "duration": 5459,
+                                "idle": 5459,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "d832ea35-5af0-4c2a-9859-174d84c4a6ea",
+                                        "state": "Ongoing",
+                                        "begin": 1733161002411,
+                                        "end": 1733161002411,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "e3a420b0-b494-4688-b423-cd1fb2737093",
+                                "duration": 14434,
+                                "idle": 14434,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "8aa879e5-bda3-461a-8a47-4fa0840d9938",
+                                        "state": "Ongoing",
+                                        "begin": 1733161007870,
+                                        "end": 1733161007870,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "ac5f64e0-798b-4cee-a5e5-56fca4b67e10",
+                                "duration": 14551,
+                                "idle": 14552,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "c84d94ef-7101-46e8-a1d5-12b027aab045",
+                                        "state": "Ongoing",
+                                        "begin": 1733161023481,
+                                        "end": 1733161023481,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "88f802cb-8d64-4dc3-b839-23eef1bd0396",
+                                        "state": "Idle",
+                                        "begin": 1733161023480,
+                                        "end": 1733161023481,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "2e8851e8-5bfc-400b-a3b5-e46623f6c2d7",
+                                        "state": "Ongoing",
+                                        "begin": 1733161022304,
+                                        "end": 1733161023480,
+                                        "duration": 1176
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "bda7bc84-136c-4de3-896a-bc07cd434f0e",
+                                "duration": 54553,
+                                "idle": 54553,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "cf996343-678e-45d8-ad75-978804492cd9",
+                                        "state": "Ongoing",
+                                        "begin": 1733161036856,
+                                        "end": 1733161036856,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "beb1d466-4859-4388-b59d-836a4f23dd25",
+                                "duration": 110217,
+                                "idle": 110217,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "3d1e461d-5ad2-4068-a9dc-a552e397a685",
+                                        "state": "Ongoing",
+                                        "begin": 1733161091409,
+                                        "end": 1733161091409,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "e18d645e-7822-4f10-9ef5-1dc61877f686",
+                                "duration": 12832,
+                                "idle": 12833,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "68f88be6-6fee-4e31-8d72-97096c7c1fca",
+                                        "state": "Ongoing",
+                                        "begin": 1733161202922,
+                                        "end": 1733161202922,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "bdb4d0b2-e6cd-4544-8ab3-7fa81cf6cc80",
+                                        "state": "Idle",
+                                        "begin": 1733161202921,
+                                        "end": 1733161202922,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "790283f2-a907-47d0-890d-123e4eb939c5",
+                                        "state": "Ongoing",
+                                        "begin": 1733161201626,
+                                        "end": 1733161202921,
+                                        "duration": 1295
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "a54e2db4-6845-4d9f-8a86-b0dd22d4a8e1",
+                                "duration": 57532,
+                                "idle": 647809,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "67d13c62-18db-489f-8a3b-b67296763615",
+                                        "state": "Ongoing",
+                                        "begin": 1733161857152,
+                                        "end": 1733161857152,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "88703147-2f2b-43d9-bda6-30db83277a1b",
+                                        "state": "Idle",
+                                        "begin": 1733161266875,
+                                        "end": 1733161857152,
+                                        "duration": 590277
+                                    },
+                                    {
+                                        "id": "6b14d170-b823-4ad5-9406-b18ef04766ee",
+                                        "state": "Ongoing",
+                                        "begin": 1733161214459,
+                                        "end": 1733161266875,
+                                        "duration": 52416
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "c2aa9735-b6a5-4da6-963c-ce51d38bb21b",
+                                "duration": 1450,
+                                "idle": 1450,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "2d29b1af-553b-4c5d-87c2-d17e18520478",
+                                        "state": "Ongoing",
+                                        "begin": 1733161862268,
+                                        "end": 1733161862268,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "1facf5c2-d613-4b5d-93f9-160995baa660",
+                                "duration": 3871,
+                                "idle": 23469,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "e6cf37fa-10af-49c0-ac8a-c40de023f216",
+                                        "state": "Ongoing",
+                                        "begin": 1733161886500,
+                                        "end": 1733161886500,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "9f1ec890-45e3-41f0-82af-cc0afa634bf5",
+                                        "state": "Idle",
+                                        "begin": 1733161866903,
+                                        "end": 1733161886500,
+                                        "duration": 19597
+                                    },
+                                    {
+                                        "id": "dc42c362-945d-4231-89e6-202b1d044dee",
+                                        "state": "Ongoing",
+                                        "begin": 1733161864023,
+                                        "end": 1733161866903,
+                                        "duration": 2880
+                                    },
+                                    {
+                                        "id": "9de1136a-e81f-4382-987c-9768c1ba13f9",
+                                        "state": "Idle",
+                                        "begin": 1733161864022,
+                                        "end": 1733161864023,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "5de1a0cb-fa01-4a68-837c-fbf5edc57d43",
+                                        "state": "Ongoing",
+                                        "begin": 1733161863718,
+                                        "end": 1733161864022,
+                                        "duration": 304
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "99bf09bd-4846-4880-983a-9956b5675b4c",
+                                "duration": 24849,
+                                "idle": 24872,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "0f1262f6-b305-4048-801d-23a063212575",
+                                        "state": "Ongoing",
+                                        "begin": 1733161904517,
+                                        "end": 1733161904517,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "51a3a6d7-f6b2-47c3-9769-e7ce4b7216d7",
+                                        "state": "Idle",
+                                        "begin": 1733161904516,
+                                        "end": 1733161904517,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "a08051e1-ceab-4c81-af60-2d7e6fc8958f",
+                                        "state": "Ongoing",
+                                        "begin": 1733161900817,
+                                        "end": 1733161904516,
+                                        "duration": 3699
+                                    },
+                                    {
+                                        "id": "2ccb2cd1-2bcf-4015-a71d-57a2aea9a4fe",
+                                        "state": "Idle",
+                                        "begin": 1733161900816,
+                                        "end": 1733161900817,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "efa383f7-a95a-4e82-8ebf-65d60234c347",
+                                        "state": "Ongoing",
+                                        "begin": 1733161900077,
+                                        "end": 1733161900816,
+                                        "duration": 739
+                                    },
+                                    {
+                                        "id": "f45d1956-36e8-4c83-ba43-a4fca2847823",
+                                        "state": "Idle",
+                                        "begin": 1733161900074,
+                                        "end": 1733161900076,
+                                        "duration": 2
+                                    },
+                                    {
+                                        "id": "836f3e23-83fd-4727-a06c-d10fc78b01ee",
+                                        "state": "Ongoing",
+                                        "begin": 1733161899184,
+                                        "end": 1733161900074,
+                                        "duration": 890
+                                    },
+                                    {
+                                        "id": "13d4d619-70d9-401f-a564-99fdc3ddcfdf",
+                                        "state": "Idle",
+                                        "begin": 1733161899181,
+                                        "end": 1733161899184,
+                                        "duration": 3
+                                    },
+                                    {
+                                        "id": "44aa2fb2-e0e7-499a-8cf1-683881634175",
+                                        "state": "Ongoing",
+                                        "begin": 1733161898315,
+                                        "end": 1733161899181,
+                                        "duration": 866
+                                    },
+                                    {
+                                        "id": "f743a00c-43be-4ca7-9edc-feb3b31145d9",
+                                        "state": "Idle",
+                                        "begin": 1733161898312,
+                                        "end": 1733161898315,
+                                        "duration": 3
+                                    },
+                                    {
+                                        "id": "dcc02102-5515-4bd3-bd92-d87734f43ab7",
+                                        "state": "Ongoing",
+                                        "begin": 1733161897653,
+                                        "end": 1733161898312,
+                                        "duration": 659
+                                    },
+                                    {
+                                        "id": "4334b433-cd26-488c-9866-4839450ccdff",
+                                        "state": "Idle",
+                                        "begin": 1733161897650,
+                                        "end": 1733161897653,
+                                        "duration": 3
+                                    },
+                                    {
+                                        "id": "13061c74-f25f-493e-8997-5d4d127ae499",
+                                        "state": "Ongoing",
+                                        "begin": 1733161896990,
+                                        "end": 1733161897650,
+                                        "duration": 660
+                                    },
+                                    {
+                                        "id": "f361d8f5-4fa9-425e-989e-29f674bda545",
+                                        "state": "Idle",
+                                        "begin": 1733161896987,
+                                        "end": 1733161896990,
+                                        "duration": 3
+                                    },
+                                    {
+                                        "id": "bc74e9cb-7c07-4911-9afa-3ebef674dc63",
+                                        "state": "Ongoing",
+                                        "begin": 1733161895770,
+                                        "end": 1733161896987,
+                                        "duration": 1217
+                                    },
+                                    {
+                                        "id": "af416e3f-f368-4df1-b9c7-94183a6829ec",
+                                        "state": "Idle",
+                                        "begin": 1733161895768,
+                                        "end": 1733161895770,
+                                        "duration": 2
+                                    },
+                                    {
+                                        "id": "added75f-f864-43a7-b729-26f18652023f",
+                                        "state": "Ongoing",
+                                        "begin": 1733161894868,
+                                        "end": 1733161895768,
+                                        "duration": 900
+                                    },
+                                    {
+                                        "id": "7c8e53dd-4e8f-4069-9311-5271f5f9868a",
+                                        "state": "Idle",
+                                        "begin": 1733161894864,
+                                        "end": 1733161894868,
+                                        "duration": 4
+                                    },
+                                    {
+                                        "id": "1527b509-fd33-4020-8eeb-7b66fa373853",
+                                        "state": "Ongoing",
+                                        "begin": 1733161887438,
+                                        "end": 1733161894864,
+                                        "duration": 7426
+                                    },
+                                    {
+                                        "id": "f8fae940-72ff-4fe0-b28e-edc4320d279a",
+                                        "state": "Idle",
+                                        "begin": 1733161887437,
+                                        "end": 1733161887438,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "32d2a9b9-6dcd-4d9b-9cdc-110b031eaf97",
+                                        "state": "Ongoing",
+                                        "begin": 1733161887187,
+                                        "end": 1733161887437,
+                                        "duration": 250
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "06645713-2379-4536-9f40-ebc8ebb88d75",
+                                "duration": 263710,
+                                "idle": 318181,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "5f231b6b-1bf8-44eb-824e-daf97a9efef2",
+                                        "state": "Ongoing",
+                                        "begin": 1733162221385,
+                                        "end": 1733162221385,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "f17d5495-3ffe-495e-9c4c-2b93071cb3c9",
+                                        "state": "Idle",
+                                        "begin": 1733162166914,
+                                        "end": 1733162221385,
+                                        "duration": 54471
+                                    },
+                                    {
+                                        "id": "3f453a51-2e57-482b-8aad-d168509ebcb4",
+                                        "state": "Ongoing",
+                                        "begin": 1733161912060,
+                                        "end": 1733162166914,
+                                        "duration": 254854
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "32527b68-8e2c-4325-800e-ee8790ff25a1",
+                                "duration": 1232,
+                                "idle": 1232,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "7301c5f2-e7a4-402f-9686-50b3d6488669",
+                                        "state": "Ongoing",
+                                        "begin": 1733162230241,
+                                        "end": 1733162230241,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "85a7249b-e5d1-48fc-b6e0-4c5efdaf9416",
+                                "duration": 7292,
+                                "idle": 7292,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "e670d4f1-eaa6-49b9-bf9b-3e14221afebe",
+                                        "state": "Ongoing",
+                                        "begin": 1733162231733,
+                                        "end": 1733162231733,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "93c636e8-8185-447d-85ed-86c5b1b8de23",
+                                        "state": "Idle",
+                                        "begin": 1733162231733,
+                                        "end": 1733162231733,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "4fe896d6-aa0d-4c61-9f2f-f66c65f236fc",
+                                        "state": "Ongoing",
+                                        "begin": 1733162231473,
+                                        "end": 1733162231733,
+                                        "duration": 260
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "291eef8e-c12b-41e1-ac82-c80eec7e3167",
+                                "duration": 13736,
+                                "idle": 13736,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "96a43947-a3ee-4dbe-bbc2-0a706b20933d",
+                                        "state": "Ongoing",
+                                        "begin": 1733162238765,
+                                        "end": 1733162238765,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "0a246fae-baae-41a7-904b-710187f60206",
+                                "duration": 1245,
+                                "idle": 1245,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "6993084f-5873-4ce6-b0cc-d471386a8f4c",
+                                        "state": "Ongoing",
+                                        "begin": 1733162252501,
+                                        "end": 1733162252501,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "62d00d7f-ae5a-458d-a379-1e82c9d0bc3b",
+                                "duration": 2310,
+                                "idle": 2311,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "dea7a02b-b974-4cd8-a1e8-d73419eff35f",
+                                        "state": "Ongoing",
+                                        "begin": 1733162253967,
+                                        "end": 1733162253967,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "3aa12838-6095-4937-9628-407a0d4cb372",
+                                        "state": "Idle",
+                                        "begin": 1733162253966,
+                                        "end": 1733162253967,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "d2d298aa-2910-4b62-8a9c-dd171aee9e11",
+                                        "state": "Ongoing",
+                                        "begin": 1733162253746,
+                                        "end": 1733162253966,
+                                        "duration": 220
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "96140eea-a814-486e-b0f1-5599067e46c6",
+                                "duration": 89320,
+                                "idle": 89320,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "4ef2d28d-e1f4-4583-9c9a-9e2750d94624",
+                                        "state": "Ongoing",
+                                        "begin": 1733162256057,
+                                        "end": 1733162256057,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "16680820-a8b1-4e11-8543-83a1daea6c29",
+                                "duration": 1248,
+                                "idle": 1248,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "39a912aa-539b-45d3-b1fe-d80c193abd6a",
+                                        "state": "Ongoing",
+                                        "begin": 1733162345377,
+                                        "end": 1733162345377,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "16200929-b1bf-4f03-a6ae-1f306d0a467b",
+                                "duration": 356753,
+                                "idle": 597410,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "495b83a3-0a81-4e1c-8bda-787a88a01007",
+                                        "state": "Ongoing",
+                                        "begin": 1733162917109,
+                                        "end": 1733162917109,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "1d857da1-9bac-420b-bed4-8ef9199ec623",
+                                        "state": "Idle",
+                                        "begin": 1733162766931,
+                                        "end": 1733162917109,
+                                        "duration": 150178
+                                    },
+                                    {
+                                        "id": "b3c4e649-369a-46c3-a267-12053e9e59d7",
+                                        "state": "Ongoing",
+                                        "begin": 1733162557403,
+                                        "end": 1733162766931,
+                                        "duration": 209528
+                                    },
+                                    {
+                                        "id": "df9c7559-d754-4614-904c-94f00042f6e1",
+                                        "state": "Idle",
+                                        "begin": 1733162466924,
+                                        "end": 1733162557403,
+                                        "duration": 90479
+                                    },
+                                    {
+                                        "id": "b89ff2cd-055d-4b51-9611-4ffddfa1a6fa",
+                                        "state": "Ongoing",
+                                        "begin": 1733162346864,
+                                        "end": 1733162466924,
+                                        "duration": 120060
+                                    },
+                                    {
+                                        "id": "9652316f-676e-4e09-9522-35423f5d8e13",
+                                        "state": "Idle",
+                                        "begin": 1733162346864,
+                                        "end": 1733162346864,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "2381cab9-6726-4dea-89a8-7323840ed70d",
+                                        "state": "Ongoing",
+                                        "begin": 1733162346625,
+                                        "end": 1733162346864,
+                                        "duration": 239
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "0c2eb2ba-b8f5-4ed9-acca-fcc23c779c17",
+                                "duration": 5547,
+                                "idle": 5547,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "cf614470-27c9-4bbe-a62a-630b0d432974",
+                                        "state": "Ongoing",
+                                        "begin": 1733162945786,
+                                        "end": 1733162945786,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "71b93710-4d04-444c-9e78-e944b91e01b3",
+                                        "state": "Idle",
+                                        "begin": 1733162945786,
+                                        "end": 1733162945786,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "0efc81a8-bf24-48e2-96f4-5bdee0579ce5",
+                                        "state": "Ongoing",
+                                        "begin": 1733162944035,
+                                        "end": 1733162945786,
+                                        "duration": 1751
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "451becf5-e7f5-44ca-9e28-6053d3622771",
+                                "duration": 22227,
+                                "idle": 22227,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "215f6aea-3268-4c34-9a83-99406c05ca0d",
+                                        "state": "Ongoing",
+                                        "begin": 1733162949582,
+                                        "end": 1733162949582,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "2e8a438f-ca47-40bd-a666-844b1d38f0be",
+                                "duration": 2204,
+                                "idle": 2204,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "7c32b0e9-1d8a-4267-9b6b-8c60897cc3d3",
+                                        "state": "Ongoing",
+                                        "begin": 1733162971809,
+                                        "end": 1733162971809,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "d3ba80ac-1c3a-458e-802a-88780bd0a23a",
+                                "duration": 32035,
+                                "idle": 32035,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "0d80ca5e-eb8f-467e-8d0b-64466da207f9",
+                                        "state": "Ongoing",
+                                        "begin": 1733162981165,
+                                        "end": 1733162981165,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "6edcbe0e-695b-46cd-9b7c-b7d62796ae97",
+                                        "state": "Idle",
+                                        "begin": 1733162981165,
+                                        "end": 1733162981165,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "61ef70a5-00a5-4679-b42f-82ec329ce0e2",
+                                        "state": "Ongoing",
+                                        "begin": 1733162974013,
+                                        "end": 1733162981165,
+                                        "duration": 7152
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "d82038d3-b77b-4770-8c36-679cdb2a168c",
+                                "duration": 12040,
+                                "idle": 12040,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "656f7402-cbb4-4eab-b4b1-b93e01abbcbc",
+                                        "state": "Ongoing",
+                                        "begin": 1733163006048,
+                                        "end": 1733163006048,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "89245998-f58a-48b4-8b30-b3fffb8a24f1",
+                                "duration": 2217,
+                                "idle": 2217,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "36f6fd9b-91e2-45fc-b795-4258dc9e7cf6",
+                                        "state": "Ongoing",
+                                        "begin": 1733163018088,
+                                        "end": 1733163018088,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "0ddadc97-671b-4996-bb14-cd868912f035",
+                                "duration": 30294,
+                                "idle": 30294,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "a3f40182-3b55-4bc1-93bd-9497373b63e7",
+                                        "state": "Ongoing",
+                                        "begin": 1733163027488,
+                                        "end": 1733163027488,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "3065c4d5-1f86-4ed0-b2a5-944793debf4d",
+                                        "state": "Idle",
+                                        "begin": 1733163027488,
+                                        "end": 1733163027488,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "c269d663-7f77-4829-b2d8-a790dd93a50c",
+                                        "state": "Ongoing",
+                                        "begin": 1733163020305,
+                                        "end": 1733163027488,
+                                        "duration": 7183
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "9ba96585-2767-423b-9c64-3b67894d9b93",
+                                "duration": 11768,
+                                "idle": 11768,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "92b9361a-6189-4626-8041-1b67bc83dd51",
+                                        "state": "Ongoing",
+                                        "begin": 1733163050599,
+                                        "end": 1733163050599,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "c76179b8-2c22-402c-8d6d-0978e641f527",
+                                "duration": 11261,
+                                "idle": 11469,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "cf755f53-d76d-40a5-9f8f-d249e870d0d0",
+                                        "state": "Ongoing",
+                                        "begin": 1733163068422,
+                                        "end": 1733163068422,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "9259b230-3069-42cd-9572-77be64f1d739",
+                                        "state": "Idle",
+                                        "begin": 1733163068422,
+                                        "end": 1733163068422,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "23092240-c770-4b86-929e-38f7678e16f9",
+                                        "state": "Ongoing",
+                                        "begin": 1733163067153,
+                                        "end": 1733163068422,
+                                        "duration": 1269
+                                    },
+                                    {
+                                        "id": "37cef150-b64e-4ed8-971e-988899830b4f",
+                                        "state": "Idle",
+                                        "begin": 1733163066946,
+                                        "end": 1733163067153,
+                                        "duration": 207
+                                    },
+                                    {
+                                        "id": "25e39844-4967-4a20-b586-cbd103db04b4",
+                                        "state": "Ongoing",
+                                        "begin": 1733163064130,
+                                        "end": 1733163066946,
+                                        "duration": 2816
+                                    },
+                                    {
+                                        "id": "61a44fa8-8213-4ac0-966a-23e03255c6ea",
+                                        "state": "Idle",
+                                        "begin": 1733163064129,
+                                        "end": 1733163064130,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "54c084ac-062b-44a8-bda8-25118bab919a",
+                                        "state": "Ongoing",
+                                        "begin": 1733163062367,
+                                        "end": 1733163064129,
+                                        "duration": 1762
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "50f1cb3b-e993-41c6-8dc4-7c557d672dff",
+                                "duration": 10422,
+                                "idle": 10423,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "b398afce-336d-41d2-8f6b-c39888c1dd07",
+                                        "state": "Ongoing",
+                                        "begin": 1733163080995,
+                                        "end": 1733163080995,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "3313ef1e-9982-4089-b637-742569fea863",
+                                        "state": "Idle",
+                                        "begin": 1733163080994,
+                                        "end": 1733163080995,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "1ac201d7-80f2-4c2a-990d-2e3d42c6e8cf",
+                                        "state": "Ongoing",
+                                        "begin": 1733163073836,
+                                        "end": 1733163080994,
+                                        "duration": 7158
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "170be28c-e908-423d-b0f6-a3b0689c8137",
+                                "duration": 22427,
+                                "idle": 22427,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "fafd0d5b-1f24-4772-b856-a6b7375b0500",
+                                        "state": "Ongoing",
+                                        "begin": 1733163084259,
+                                        "end": 1733163084259,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "04085de0-7cb1-4dbf-bb0b-90202aefc14d",
+                                "duration": 4602,
+                                "idle": 4603,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "ddcbb081-8e46-4f77-9982-f559f37fd5b8",
+                                        "state": "Ongoing",
+                                        "begin": 1733163107944,
+                                        "end": 1733163107944,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "1cab2485-b4f6-4391-b108-376fd20c0bbb",
+                                        "state": "Idle",
+                                        "begin": 1733163107943,
+                                        "end": 1733163107944,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "da0f21bf-3acc-4a7b-9c45-3782609755d0",
+                                        "state": "Ongoing",
+                                        "begin": 1733163106687,
+                                        "end": 1733163107943,
+                                        "duration": 1256
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "8e80f60e-2deb-4988-9a89-ae9870d25f92",
+                                "duration": 20317,
+                                "idle": 20318,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "c5932da8-d9d4-48ab-87ae-6caa81d160d8",
+                                        "state": "Ongoing",
+                                        "begin": 1733163111511,
+                                        "end": 1733163111511,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "f9281e62-2ca8-44f2-b622-9a62c15a4324",
+                                        "state": "Idle",
+                                        "begin": 1733163111510,
+                                        "end": 1733163111511,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "595551b3-5a00-4277-aaf6-1a6edd40f14a",
+                                        "state": "Ongoing",
+                                        "begin": 1733163111290,
+                                        "end": 1733163111510,
+                                        "duration": 220
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "15d80f4a-596f-4626-bbd7-bf2c61b54632",
+                                "duration": 7147,
+                                "idle": 7147,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "2822ac62-75e4-4eef-8ffd-bb6b28c273a8",
+                                        "state": "Ongoing",
+                                        "begin": 1733163131608,
+                                        "end": 1733163131608,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "796e2bea-c9f0-4675-9dca-e6b43823852e",
+                                "duration": 16197,
+                                "idle": 16199,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "608c7a3e-fcd2-4a46-9893-db5bfb328af9",
+                                        "state": "Ongoing",
+                                        "begin": 1733163149626,
+                                        "end": 1733163149626,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "212a0afd-2991-418c-b527-c411405dd9e3",
+                                        "state": "Idle",
+                                        "begin": 1733163149625,
+                                        "end": 1733163149626,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "63847937-dc98-401c-a733-9ee51c625bcc",
+                                        "state": "Ongoing",
+                                        "begin": 1733163143079,
+                                        "end": 1733163149625,
+                                        "duration": 6546
+                                    },
+                                    {
+                                        "id": "230ee4c6-51bd-454c-a3df-0b6ce2e62a18",
+                                        "state": "Idle",
+                                        "begin": 1733163143078,
+                                        "end": 1733163143079,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "659c0bbe-6ff6-4caa-96ee-8834123a713d",
+                                        "state": "Ongoing",
+                                        "begin": 1733163138755,
+                                        "end": 1733163143078,
+                                        "duration": 4323
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "c8649688-80af-4c51-8ae3-8dea4dc97600",
+                                "duration": 227470,
+                                "idle": 239983,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "0e97ce6f-0d2b-4c51-a76a-1be115f02001",
+                                        "state": "Ongoing",
+                                        "begin": 1733163379469,
+                                        "end": 1733163379469,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "18fb2e21-83e6-41bf-926a-06372acaa6c4",
+                                        "state": "Idle",
+                                        "begin": 1733163366956,
+                                        "end": 1733163379469,
+                                        "duration": 12513
+                                    },
+                                    {
+                                        "id": "3c8fe624-8cd5-4c12-8a09-179c265f4b80",
+                                        "state": "Ongoing",
+                                        "begin": 1733163154954,
+                                        "end": 1733163366956,
+                                        "duration": 212002
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "aec8dd1c-3aa2-4f74-a6d9-b9a0923fc491",
+                                "duration": 32111,
+                                "idle": 32112,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "9f546f59-0c18-4ce6-a4ae-7f08c0b0caaf",
+                                        "state": "Ongoing",
+                                        "begin": 1733163414340,
+                                        "end": 1733163414340,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "a574bd6b-6728-40a9-bd29-68ad9d51d1be",
+                                        "state": "Idle",
+                                        "begin": 1733163414339,
+                                        "end": 1733163414340,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "03663bc5-ea4c-41be-ae90-ff10956572dd",
+                                        "state": "Ongoing",
+                                        "begin": 1733163395661,
+                                        "end": 1733163414339,
+                                        "duration": 18678
+                                    },
+                                    {
+                                        "id": "5b52f877-28f5-4a34-9524-530cffa8378d",
+                                        "state": "Idle",
+                                        "begin": 1733163395661,
+                                        "end": 1733163395661,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "8a9416a1-9909-4ba1-b873-1c5d5de7a601",
+                                        "state": "Ongoing",
+                                        "begin": 1733163394937,
+                                        "end": 1733163395661,
+                                        "duration": 724
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "a515d4a7-c817-4bc4-87e0-8b46339be85b",
+                                "duration": 38402,
+                                "idle": 38402,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "cc6d005b-f045-430f-b7ea-534e32768119",
+                                        "state": "Ongoing",
+                                        "begin": 1733163427049,
+                                        "end": 1733163427049,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "dbbc01e1-f156-41d8-86ec-633cec54c261",
+                                "duration": 10655,
+                                "idle": 10655,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "afa7a1f6-199d-4808-9737-8b9dc998ea80",
+                                        "state": "Ongoing",
+                                        "begin": 1733163468034,
+                                        "end": 1733163468034,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "430358a1-dbbb-431e-a0bd-16a10b9505f1",
+                                        "state": "Idle",
+                                        "begin": 1733163468034,
+                                        "end": 1733163468034,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "6fe7203a-38de-4909-8392-cf4554e9ea1f",
+                                        "state": "Ongoing",
+                                        "begin": 1733163465451,
+                                        "end": 1733163468034,
+                                        "duration": 2583
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".base\\jdk.internal.reflect\\DirectMethodHandleAccessor.class"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "a462184d-3be7-4b9e-886f-350f80776313",
+                                "duration": 129012,
+                                "idle": 129012,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "938ef6dc-48d8-48f6-a2f1-feaa26f4ea04",
+                                        "state": "Ongoing",
+                                        "begin": 1733163476106,
+                                        "end": 1733163476106,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "dd54595c-a584-447f-a166-076be777e4b4",
+                                "duration": 11795,
+                                "idle": 11796,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "610ff0cf-ad28-474f-88eb-c5ee899ab11c",
+                                        "state": "Ongoing",
+                                        "begin": 1733163607384,
+                                        "end": 1733163607384,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "c60be6b5-1c4c-4aed-86ef-b5c27c62630e",
+                                        "state": "Idle",
+                                        "begin": 1733163607383,
+                                        "end": 1733163607384,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "1afe4f9d-7461-4cce-a7c5-d92dfda54558",
+                                        "state": "Ongoing",
+                                        "begin": 1733163605118,
+                                        "end": 1733163607383,
+                                        "duration": 2265
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".base\\jdk.internal.reflect\\DirectMethodHandleAccessor.class"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "4b4be624-0a9b-4d6c-8774-a07bce26c6a6",
+                                "duration": 2239,
+                                "idle": 2239,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "6230488b-9e14-41fb-8beb-f7381fda5cfe",
+                                        "state": "Ongoing",
+                                        "begin": 1733163616914,
+                                        "end": 1733163616914,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "9209f7e9-dfa3-4fab-97a8-af4c92fa39d7",
+                                "duration": 1478,
+                                "idle": 1478,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "6ad3ac62-012c-4d4b-81b3-97e4e10ee3cd",
+                                        "state": "Ongoing",
+                                        "begin": 1733163619153,
+                                        "end": 1733163619153,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "1c236d3e-0301-4dd4-91bf-2b37db4da366",
+                                "duration": 4671,
+                                "idle": 4672,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "475ab8f2-86cd-4950-99a2-cfb1470df42c",
+                                        "state": "Ongoing",
+                                        "begin": 1733163620839,
+                                        "end": 1733163620839,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "6c6d4456-4e6e-49cd-bbfb-f80b1a7abd37",
+                                        "state": "Idle",
+                                        "begin": 1733163620838,
+                                        "end": 1733163620839,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "db78d6c2-51f8-4380-ac92-60e7fc69406c",
+                                        "state": "Ongoing",
+                                        "begin": 1733163620631,
+                                        "end": 1733163620838,
+                                        "duration": 207
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "a7fb6cfb-9188-4114-8e9b-043c56672c9a",
+                                "duration": 42891,
+                                "idle": 43050,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "c1a37976-bfa0-4271-8eb3-a88de80dd9c8",
+                                        "state": "Ongoing",
+                                        "begin": 1733163667118,
+                                        "end": 1733163667118,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "ea3d6823-cb46-4033-ad90-c0d2f1682d77",
+                                        "state": "Idle",
+                                        "begin": 1733163666959,
+                                        "end": 1733163667118,
+                                        "duration": 159
+                                    },
+                                    {
+                                        "id": "563c780c-93ef-4696-af8a-5fdeea7a8b20",
+                                        "state": "Ongoing",
+                                        "begin": 1733163625304,
+                                        "end": 1733163666959,
+                                        "duration": 41655
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "847a4053-c456-4ad5-867d-6706c2aea728",
+                                "duration": 3374,
+                                "idle": 3375,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "048234d2-0ca3-4596-b0ec-0913ba8bd514",
+                                        "state": "Ongoing",
+                                        "begin": 1733163668619,
+                                        "end": 1733163668619,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "66907caf-a2cf-42ba-a677-84e08406e0de",
+                                        "state": "Idle",
+                                        "begin": 1733163668618,
+                                        "end": 1733163668619,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "2af723ef-382d-43df-ae5a-510c26f3d23b",
+                                        "state": "Ongoing",
+                                        "begin": 1733163668354,
+                                        "end": 1733163668618,
+                                        "duration": 264
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "3177730f-6ef4-4936-8e44-1144e2eb4943",
+                                "duration": 3498,
+                                "idle": 3498,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "fe3d1858-b617-47de-85cb-b54b01b12779",
+                                        "state": "Ongoing",
+                                        "begin": 1733163671729,
+                                        "end": 1733163671729,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "e9038796-b7e2-4f32-9078-bc1c2e25698d",
+                                "duration": 17188,
+                                "idle": 17188,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "896246b5-5a51-4205-82e8-aa309119c748",
+                                        "state": "Ongoing",
+                                        "begin": 1733163675227,
+                                        "end": 1733163675227,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "2812aa72-17a1-4a75-be19-f0eb9b6a3c95",
+                                "duration": 2034,
+                                "idle": 2036,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "8337b1dc-ba8e-4f8d-a7ca-7fb9dfbd330f",
+                                        "state": "Ongoing",
+                                        "begin": 1733163692708,
+                                        "end": 1733163692708,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "bf028c04-1b85-4ddf-acdd-599cbdc4d1bd",
+                                        "state": "Idle",
+                                        "begin": 1733163692706,
+                                        "end": 1733163692708,
+                                        "duration": 2
+                                    },
+                                    {
+                                        "id": "e0f6cb94-856c-40d0-85cb-5857b7e14d31",
+                                        "state": "Ongoing",
+                                        "begin": 1733163692415,
+                                        "end": 1733163692706,
+                                        "duration": 291
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "712030d0-84d2-47f7-b89a-25e33a857e38",
+                                "duration": 18355,
+                                "idle": 18355,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "f35066f7-2a86-49b4-9c90-a5e928e74412",
+                                        "state": "Ongoing",
+                                        "begin": 1733163694451,
+                                        "end": 1733163694451,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "5670504c-ba48-402c-82a0-2736b06acfe2",
+                                "duration": 1590,
+                                "idle": 1590,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "37aaf42b-31d3-45ff-9164-bb1704d0c63f",
+                                        "state": "Ongoing",
+                                        "begin": 1733163712806,
+                                        "end": 1733163712806,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".base\\jdk.internal.reflect\\DirectMethodHandleAccessor.class"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "37a6ca37-775e-4d62-85c2-72470a2e58ef",
+                                "duration": 79277,
+                                "idle": 79278,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "6b08ab49-0600-4dba-aa51-ec92a84f41d9",
+                                        "state": "Ongoing",
+                                        "begin": 1733163786800,
+                                        "end": 1733163786800,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "2ccc9957-0928-4822-b15e-e336e4784318",
+                                        "state": "Idle",
+                                        "begin": 1733163786799,
+                                        "end": 1733163786800,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "f5eaf7b7-ed0f-41dd-812f-ef324e3417a8",
+                                        "state": "Ongoing",
+                                        "begin": 1733163714396,
+                                        "end": 1733163786799,
+                                        "duration": 72403
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "428f6e93-e0bb-4f58-9779-53e8fa79956f",
+                                "duration": 3359,
+                                "idle": 3360,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "92429908-58a0-468d-93ef-1b68c316ce7b",
+                                        "state": "Ongoing",
+                                        "begin": 1733163793859,
+                                        "end": 1733163793859,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "8e064850-4f20-4d3e-9f78-8bfba0d9c84d",
+                                        "state": "Idle",
+                                        "begin": 1733163793858,
+                                        "end": 1733163793859,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "e473e521-227d-44b3-a03a-ba537eeb0a06",
+                                        "state": "Ongoing",
+                                        "begin": 1733163793674,
+                                        "end": 1733163793858,
+                                        "duration": 184
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "bbeee744-9264-4b38-b062-e43080c36aba",
+                                "duration": 6890,
+                                "idle": 6890,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "55ad0990-9475-4247-b5be-613440b5d193",
+                                        "state": "Ongoing",
+                                        "begin": 1733163797034,
+                                        "end": 1733163797034,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "c6ae73e4-a54f-4dad-b80b-4e364f1afe6b",
+                                "duration": 13804,
+                                "idle": 13804,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "264ea050-1a7a-4792-936d-f6c83e3d3753",
+                                        "state": "Ongoing",
+                                        "begin": 1733163803924,
+                                        "end": 1733163803924,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "e018ff27-16c5-4643-bc8a-39e83b200ce2",
+                                "duration": 18076,
+                                "idle": 18076,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "16e42f7b-a94a-41eb-8a97-4297e73884d4",
+                                        "state": "Ongoing",
+                                        "begin": 1733163817728,
+                                        "end": 1733163817728,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "6a056cb5-1079-4aba-810d-824b2466c9ac",
+                                "duration": 777,
+                                "idle": 777,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "69031e19-c022-4955-91a7-1ac556db8a4d",
+                                        "state": "Ongoing",
+                                        "begin": 1733163835804,
+                                        "end": 1733163835804,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "b1d77be4-a371-4e41-a989-56356cd93aeb",
+                                "duration": 7118,
+                                "idle": 7118,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "4a61d91b-777c-4fc7-9c7e-dcd2242ffa81",
+                                        "state": "Ongoing",
+                                        "begin": 1733163836581,
+                                        "end": 1733163836581,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "aab0686c-b09d-4252-9e13-a889b02fcef1",
+                                "duration": 2,
+                                "idle": 2,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "f4f67608-45e8-4871-8a28-cbc2b7744c0f",
+                                        "state": "Ongoing",
+                                        "begin": 1733163843699,
+                                        "end": 1733163843699,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "85c69cba-e704-4d19-bd1e-1af523f989c3",
+                                "duration": 7298,
+                                "idle": 7298,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "27a20054-9d42-4802-9a3f-2a8ffeb8cf80",
+                                        "state": "Ongoing",
+                                        "begin": 1733163843701,
+                                        "end": 1733163843701,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "e8711223-18e8-45df-a78b-1ae5eca03bd6",
+                                "duration": 7899,
+                                "idle": 7900,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "3ae84616-2aeb-427f-a3ad-5cd4f53ddc3b",
+                                        "state": "Ongoing",
+                                        "begin": 1733163851886,
+                                        "end": 1733163851886,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "7bead161-f9bf-4501-a264-d267277ab196",
+                                        "state": "Idle",
+                                        "begin": 1733163851885,
+                                        "end": 1733163851886,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "fcf5803e-45a2-4a60-baa1-7bf3fc61876b",
+                                        "state": "Ongoing",
+                                        "begin": 1733163850999,
+                                        "end": 1733163851885,
+                                        "duration": 886
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "23b95342-e082-4b1f-8cfa-44cc0bf51d9e",
+                                "duration": 1142,
+                                "idle": 1142,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "83539224-fd05-48fd-8495-5a33480e62d4",
+                                        "state": "Ongoing",
+                                        "begin": 1733163858899,
+                                        "end": 1733163858899,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Testing"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "2b33fadf-a317-4dfd-8564-58a41f9dbea6",
+                                "duration": 36311,
+                                "idle": 36312,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "0db043fc-081a-4773-8813-b161b26863d0",
+                                        "state": "Ongoing",
+                                        "begin": 1733163864509,
+                                        "end": 1733163864509,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "0703dfa0-143b-4fd8-a662-41e98da1ca0e",
+                                        "state": "Idle",
+                                        "begin": 1733163864508,
+                                        "end": 1733163864509,
+                                        "duration": 1
+                                    },
+                                    {
+                                        "id": "e875379c-9952-4983-aaa7-30c1caf52884",
+                                        "state": "Ongoing",
+                                        "begin": 1733163860041,
+                                        "end": 1733163864508,
+                                        "duration": 4467
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "6f0f8e1f-3f8b-44b9-92a4-a3c9cd0fece8",
+                                "duration": 69643,
+                                "idle": 69643,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "824c2bfd-09e4-4cb4-8132-08eb423dc798",
+                                        "state": "Ongoing",
+                                        "begin": 1733163896353,
+                                        "end": 1733163896353,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".md"
+                                ]
+                            },
+                            "actionType": "Documenting"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "d11b9c0c-83a8-4f90-ab0e-37862147f42e",
+                                "duration": 2675506,
+                                "idle": 4070344,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "4a76808f-0b54-4f77-86f1-2eaa42f2029f",
+                                        "state": "Ongoing",
+                                        "begin": 1733167933091,
+                                        "end": 1733167933091,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "21b2d3cc-6955-4824-a95b-87706681b286",
+                                        "state": "Idle",
+                                        "begin": 1733167867066,
+                                        "end": 1733167933091,
+                                        "duration": 66025
+                                    },
+                                    {
+                                        "id": "3910a6dc-5324-4f63-b5ce-196362d8a549",
+                                        "state": "Ongoing",
+                                        "begin": 1733167568364,
+                                        "end": 1733167867065,
+                                        "duration": 298701
+                                    },
+                                    {
+                                        "id": "1f110a4c-01c9-4c9c-9553-e27d9639c72b",
+                                        "state": "Idle",
+                                        "begin": 1733167567057,
+                                        "end": 1733167568364,
+                                        "duration": 1307
+                                    },
+                                    {
+                                        "id": "e0951eb2-2ddb-4d88-8d9f-e2e4b45019ae",
+                                        "state": "Ongoing",
+                                        "begin": 1733167269637,
+                                        "end": 1733167567057,
+                                        "duration": 297420
+                                    },
+                                    {
+                                        "id": "fed9056f-c290-4a1c-9cb8-446ddd1ce0bd",
+                                        "state": "Idle",
+                                        "begin": 1733167267050,
+                                        "end": 1733167269637,
+                                        "duration": 2587
+                                    },
+                                    {
+                                        "id": "44b76f12-3a94-420c-94a2-b25999fda5b9",
+                                        "state": "Ongoing",
+                                        "begin": 1733166967182,
+                                        "end": 1733167267050,
+                                        "duration": 299868
+                                    },
+                                    {
+                                        "id": "1e2d003d-db89-44a2-8dd1-06dbc6484e5a",
+                                        "state": "Idle",
+                                        "begin": 1733166967037,
+                                        "end": 1733166967182,
+                                        "duration": 145
+                                    },
+                                    {
+                                        "id": "a7c7ab6b-0258-4209-82d0-b866c8f163c7",
+                                        "state": "Ongoing",
+                                        "begin": 1733166671613,
+                                        "end": 1733166967037,
+                                        "duration": 295424
+                                    },
+                                    {
+                                        "id": "e8cca7e2-f461-4049-a863-8f4c1c2afc3b",
+                                        "state": "Idle",
+                                        "begin": 1733166667032,
+                                        "end": 1733166671613,
+                                        "duration": 4581
+                                    },
+                                    {
+                                        "id": "860650e9-69f2-4e71-b314-80c1af0e4934",
+                                        "state": "Ongoing",
+                                        "begin": 1733166367446,
+                                        "end": 1733166667032,
+                                        "duration": 299586
+                                    },
+                                    {
+                                        "id": "44435909-29a1-4af7-92fb-73ae7847ef8a",
+                                        "state": "Idle",
+                                        "begin": 1733166367025,
+                                        "end": 1733166367446,
+                                        "duration": 421
+                                    },
+                                    {
+                                        "id": "9b1ec62f-30c3-41cc-88d5-b866d3e9b0aa",
+                                        "state": "Ongoing",
+                                        "begin": 1733166071045,
+                                        "end": 1733166367025,
+                                        "duration": 295980
+                                    },
+                                    {
+                                        "id": "520ece30-8159-4ebb-9c57-d19362e81b00",
+                                        "state": "Idle",
+                                        "begin": 1733166067010,
+                                        "end": 1733166071045,
+                                        "duration": 4035
+                                    },
+                                    {
+                                        "id": "66fed7e6-e965-44c2-ab21-304f2bf4c0a2",
+                                        "state": "Ongoing",
+                                        "begin": 1733165786267,
+                                        "end": 1733166067010,
+                                        "duration": 280743
+                                    },
+                                    {
+                                        "id": "af6e5809-5909-4ce2-9b25-805184406b76",
+                                        "state": "Idle",
+                                        "begin": 1733165166990,
+                                        "end": 1733165786267,
+                                        "duration": 619277
+                                    },
+                                    {
+                                        "id": "1757e542-3d72-444d-b8b7-9693d873c6d9",
+                                        "state": "Ongoing",
+                                        "begin": 1733164961198,
+                                        "end": 1733165166990,
+                                        "duration": 205792
+                                    },
+                                    {
+                                        "id": "b6ef47d3-3273-488b-85c5-c12946d65303",
+                                        "state": "Idle",
+                                        "begin": 1733164266963,
+                                        "end": 1733164961198,
+                                        "duration": 694235
+                                    },
+                                    {
+                                        "id": "953ea10c-709c-4d9b-b3aa-b20d9d08f6c3",
+                                        "state": "Ongoing",
+                                        "begin": 1733163969189,
+                                        "end": 1733164266963,
+                                        "duration": 297774
+                                    },
+                                    {
+                                        "id": "654380d2-f4b7-4094-9234-2245f980ba18",
+                                        "state": "Idle",
+                                        "begin": 1733163966964,
+                                        "end": 1733163969189,
+                                        "duration": 2225
+                                    },
+                                    {
+                                        "id": "0b6147af-fdd5-4ade-b021-c2c33d4fc2f2",
+                                        "state": "Ongoing",
+                                        "begin": 1733163965996,
+                                        "end": 1733163966964,
+                                        "duration": 968
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java",
+                                    ".md"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "d71a4d41-5015-4862-a326-c016c2259502",
+                                "duration": 41550,
+                                "idle": 41552,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "e6ebbb15-d9d8-46d3-b027-8a2cc0f3ed30",
+                                        "state": "Ongoing",
+                                        "begin": 1733168037123,
+                                        "end": 1733168037123,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "fc5d7965-90ec-41f5-b6cb-0b9e931ade87",
+                                        "state": "Idle",
+                                        "begin": 1733168037121,
+                                        "end": 1733168037123,
+                                        "duration": 2
+                                    },
+                                    {
+                                        "id": "aa0f2db7-c788-40b1-b75e-c617b588a5c5",
+                                        "state": "Ongoing",
+                                        "begin": 1733168036341,
+                                        "end": 1733168037121,
+                                        "duration": 780
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "ebe9b0e6-c87e-41df-af22-076a05b6389d",
+                                "duration": 463347,
+                                "idle": 464438,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "cf62f47a-8510-45f6-8cc3-41d9cc09d234",
+                                        "state": "Ongoing",
+                                        "begin": 1733168467383,
+                                        "end": 1733168467383,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "e3b16b67-e652-45fa-ad1f-82ccb9676ad6",
+                                        "state": "Idle",
+                                        "begin": 1733168467079,
+                                        "end": 1733168467383,
+                                        "duration": 304
+                                    },
+                                    {
+                                        "id": "c8cd92ab-f154-4816-9269-0183a3bbbee4",
+                                        "state": "Ongoing",
+                                        "begin": 1733168167857,
+                                        "end": 1733168467079,
+                                        "duration": 299222
+                                    },
+                                    {
+                                        "id": "74c8e04a-db59-4ce0-9683-8280a1d0b72a",
+                                        "state": "Idle",
+                                        "begin": 1733168167070,
+                                        "end": 1733168167857,
+                                        "duration": 787
+                                    },
+                                    {
+                                        "id": "bb78c9b1-0dbf-4deb-b576-4c660025d5e7",
+                                        "state": "Ongoing",
+                                        "begin": 1733168077893,
+                                        "end": 1733168167070,
+                                        "duration": 89177
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "e4bdb86f-7ffc-40c9-a6a6-e3b53ac4034b",
+                                "duration": 8006,
+                                "idle": 8006,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "22afc903-ea80-4513-94fc-bc2b2648bb2b",
+                                        "state": "Ongoing",
+                                        "begin": 1733168542331,
+                                        "end": 1733168542331,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "df83f63e-33a7-41c3-9c5f-ce78c8fbd180",
+                                "duration": 5018,
+                                "idle": 5018,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "bfcfc4fd-408d-4383-9d8b-3802ac049173",
+                                        "state": "Ongoing",
+                                        "begin": 1733168550337,
+                                        "end": 1733168550337,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "a774d664-a035-4e69-8e52-eb1bf987a367",
+                                "duration": 465,
+                                "idle": 465,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "76f0be30-4e78-4edf-a694-b07d340ea27b",
+                                        "state": "Ongoing",
+                                        "begin": 1733168555355,
+                                        "end": 1733168555355,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "d865b16c-7407-4721-bbb3-d4321b2bfbc1",
+                                "duration": 47613,
+                                "idle": 47615,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "8230399b-a637-461c-8e40-5b8d922f2eda",
+                                        "state": "Ongoing",
+                                        "begin": 1733168590575,
+                                        "end": 1733168590575,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "b3621800-58e9-4438-a9f5-182927759156",
+                                        "state": "Idle",
+                                        "begin": 1733168590573,
+                                        "end": 1733168590575,
+                                        "duration": 2
+                                    },
+                                    {
+                                        "id": "50c1c9c2-88ea-4885-a526-fab2273b7683",
+                                        "state": "Ongoing",
+                                        "begin": 1733168555820,
+                                        "end": 1733168590573,
+                                        "duration": 34753
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "8e9817a2-bafa-4fe8-a34d-ef376b1ef2fb",
+                                "duration": 2337,
+                                "idle": 2337,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "6fa97986-f22e-4c87-8809-d0e7fe86f515",
+                                        "state": "Ongoing",
+                                        "begin": 1733168603435,
+                                        "end": 1733168603435,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "d5aef9ba-149c-4968-9ef8-18ef8e453e10",
+                                "duration": 5553,
+                                "idle": 5553,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "e732f174-2b73-4d5a-9957-1231f987803f",
+                                        "state": "Ongoing",
+                                        "begin": 1733168605772,
+                                        "end": 1733168605772,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "c971970e-4511-458a-9172-aeab37a19d61",
+                                "duration": 139649,
+                                "idle": 139649,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "92b685ef-321c-4ea7-9130-ac1d9a72d6ec",
+                                        "state": "Ongoing",
+                                        "begin": 1733168611325,
+                                        "end": 1733168611325,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "9fb3ae0b-e948-41db-ab0e-d0e4d63b9b9c",
+                                "duration": 651910,
+                                "idle": 656051,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "59990386-71f5-4cb9-8198-e6a27c1f60cc",
+                                        "state": "Ongoing",
+                                        "begin": 1733169369351,
+                                        "end": 1733169369351,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "772263d5-ea89-48aa-8c55-3bf81a1dc744",
+                                        "state": "Idle",
+                                        "begin": 1733169367108,
+                                        "end": 1733169369351,
+                                        "duration": 2243
+                                    },
+                                    {
+                                        "id": "d21ed073-44f9-46f9-975a-a6d6e55f7062",
+                                        "state": "Ongoing",
+                                        "begin": 1733169068618,
+                                        "end": 1733169367108,
+                                        "duration": 298490
+                                    },
+                                    {
+                                        "id": "25d4c54e-4b50-410c-8f8a-29d71673ea46",
+                                        "state": "Idle",
+                                        "begin": 1733169067092,
+                                        "end": 1733169068618,
+                                        "duration": 1526
+                                    },
+                                    {
+                                        "id": "c35baeaf-dd34-48ef-9e58-f0fd75a58d3a",
+                                        "state": "Ongoing",
+                                        "begin": 1733168767453,
+                                        "end": 1733169067092,
+                                        "duration": 299639
+                                    },
+                                    {
+                                        "id": "ba48f1c9-ccf9-40fb-b661-ba2a085ebe87",
+                                        "state": "Idle",
+                                        "begin": 1733168767081,
+                                        "end": 1733168767453,
+                                        "duration": 372
+                                    },
+                                    {
+                                        "id": "ef8a3071-d192-4e09-a379-80fc20882223",
+                                        "state": "Ongoing",
+                                        "begin": 1733168750974,
+                                        "end": 1733168767081,
+                                        "duration": 16107
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".md"
+                                ]
+                            },
+                            "actionType": "Documenting"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "0d390032-c462-4f48-be14-d3b848a9a07f",
+                                "duration": 18869,
+                                "idle": 18871,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "7498e157-a75f-49d6-92b7-904054bf2cdd",
+                                        "state": "Ongoing",
+                                        "begin": 1733169408439,
+                                        "end": 1733169408439,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "3322405e-c561-479e-a7f1-74b50563aec8",
+                                        "state": "Idle",
+                                        "begin": 1733169408437,
+                                        "end": 1733169408439,
+                                        "duration": 2
+                                    },
+                                    {
+                                        "id": "08bffe32-3b85-4cda-bd5a-b64c2f170bdd",
+                                        "state": "Ongoing",
+                                        "begin": 1733169407025,
+                                        "end": 1733169408437,
+                                        "duration": 1412
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".md"
+                                ]
+                            },
+                            "actionType": "Debugging"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "8226e993-ffb4-4637-bbab-e55d9b5c9f6a",
+                                "duration": 241029,
+                                "idle": 241029,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "47b90f6e-348a-402a-ad68-cb0a4f1a284a",
+                                        "state": "Ongoing",
+                                        "begin": 1733169425896,
+                                        "end": 1733169425896,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".java"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        }
+                    ]
                 }
             ]
         }
